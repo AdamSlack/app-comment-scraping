@@ -1,0 +1,4580 @@
+[
+    {
+        "author": "  ",
+        "date": "27 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great"
+    },
+    {
+        "author": " Kelemen András ",
+        "date": "27 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Does what it is for. Keep on like this."
+    },
+    {
+        "author": " David M. ",
+        "date": "27 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best app for keeping track of crypto currency."
+    },
+    {
+        "author": " Jerome Eguchi ",
+        "date": "27 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best"
+    },
+    {
+        "author": " waqas ali ",
+        "date": "27 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Took a while to fetch data but works effortlessly after that. The only thing I would suggests to give an option to view altcoins exchange rate in both fiat and btc on the main screen."
+    },
+    {
+        "author": " Sammyken Lamera ",
+        "date": "27 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very helpful tool, i give it a 5 stars for being fast and reliable app."
+    },
+    {
+        "author": " Freddy Chikwiri ",
+        "date": "26 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Simple, precise and functional..! Elegant"
+    },
+    {
+        "author": " Jairo Flores ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Muy buena herramienta, fácil de usar y si tuviera para guardar la trayectoria de días anteriores, estaría fenomenal."
+    },
+    {
+        "author": " Arnold Arboleda ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Apps is great!!!!!"
+    },
+    {
+        "author": " Wayne Graham ",
+        "date": "26 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Really great app, functionality & ease of use second to none. However I just wish i could sync to an account so i don't loose recorded asset inputs if i change phones"
+    },
+    {
+        "author": " matt SAND ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  PERFECT!  I've never been more happy with an app. Everything you need for tracking your crypto."
+    },
+    {
+        "author": " Piyush Pranjal ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Working great in a comparison of others"
+    },
+    {
+        "author": " Rattana phanthourath ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  After about a week. Better than fantastic! Great work on this app. You guys got an ICO coming out Lol"
+    },
+    {
+        "author": "  ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good for checking status of each coins"
+    },
+    {
+        "author": " Ahmed Ezzat ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  informative, all you need to know ontime"
+    },
+    {
+        "author": " Brad Durbin ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great Crypto app"
+    },
+    {
+        "author": "  ",
+        "date": "26 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Add buy and sell chart for each coin with respect to exchange if possible  that would be a great functionality for this app  !!!  Also please make more beautify UI ( Good changes are always welcome either it is less change or more ) but keep it black and white or black and grey theme"
+    },
+    {
+        "author": " Thomas Andrianopoulos ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Perfect. Thousands of times better than my phone's calculator."
+    },
+    {
+        "author": " Nathanael Ries ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Tracks my portfolio for me for quick and easy monitoring on the go. Alarms are much better than setting dangerous stop losses on an exchange."
+    },
+    {
+        "author": " Jesse LaPoint ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great way to keep track of my crypto portfolio!"
+    },
+    {
+        "author": " Victoria Liao ",
+        "date": "26 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  It won't let me delete pre-selected coins or add any transaction"
+    },
+    {
+        "author": " Brian Hennessy ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good app, would like graph per coin too"
+    },
+    {
+        "author": " Rikki Edwards ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Lovw this app... you need to keep on top of your holdings but it is mighty accurate :D.  Well worth the download :D"
+    },
+    {
+        "author": " Ali Reza Rahbari ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  This app helping me a lot and saving a lot of time for me"
+    },
+    {
+        "author": " Nicolae Gaidibadi ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great, but where is XMR/EUR for Kraken and/or others exchanges? This remark is available also for others cryptos. *It will be grea if I could track Fee's for Trades and also Fee's for deposit and withdraw on exchange account, because there are spent money too."
+    },
+    {
+        "author": " jet lag ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice"
+    },
+    {
+        "author": " thomas laverty ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice app for investing"
+    },
+    {
+        "author": " Thomas Miller ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  If you can't add or relocate wallets what's the point?  REPLY: All the Wallet Apps have the ability to monitor and give alerts. I was a rhetorical question."
+    },
+    {
+        "author": " Thomas Kellerman ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great"
+    },
+    {
+        "author": " Jayesh Chapper ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It's an great app most useful"
+    },
+    {
+        "author": "  ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Top"
+    },
+    {
+        "author": " Esteban Díaz ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  This is a very simple app that serves its purpose very well. Update: still think is amazing. One suggestion: it would be great if we could pass you read only API keys so the portfolio is tracked automatically :)"
+    },
+    {
+        "author": " Patrick Quigg ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Easy to use"
+    },
+    {
+        "author": " Lloyd Minoza ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app to monitor crypto currency portfolio in popular exchanges. No issues so far."
+    },
+    {
+        "author": " Charles Flores ",
+        "date": "26 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great app. Would like to see a total of profit/loss on main screen. Or able to edit columns."
+    },
+    {
+        "author": " Aaron Koo ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It does everything it says it does perfectly!"
+    },
+    {
+        "author": " Jamaur Norfleet ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app to keep track of you portfolio on the go."
+    },
+    {
+        "author": " Ron Obligado ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  This is very useful for setting up a personal Cryptocurrency Portfolio. I'm currently on my 3rd Crypto, hoping to add 3 or 4 more soon.  But I'm hoping they could also integrate the holdings stats from COINS.PH in the future. (I'm from the Philippines, and Coins.ph is widely used for Bitcoin transactions)  Looking forward for more app improvements. God Bless Blockfolio👍🏻"
+    },
+    {
+        "author": " Anton Doos ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Does everything needed well"
+    },
+    {
+        "author": " Rakesh Sakdasariya ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very nice app.Awsome speed."
+    }
+][
+    {
+        "author": " Minh Nguyen ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I love it"
+    },
+    {
+        "author": " Zaid Roberts ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It does what its supposed to"
+    },
+    {
+        "author": " Fitzgerald Gonzaléz ",
+        "date": "26 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Can you export this into an excel form?"
+    },
+    {
+        "author": " NGUYEN TIEN HUNG ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app..."
+    },
+    {
+        "author": " Padraig Doyle ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app to track crypto"
+    },
+    {
+        "author": " Chris Cox ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works as one may expect. Kudos to the developers."
+    },
+    {
+        "author": " md syahid ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Superb"
+    },
+    {
+        "author": " Tom Craig ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works perfect"
+    },
+    {
+        "author": " Adrian Adams ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works good. Thanks"
+    },
+    {
+        "author": " Allen Dillon Jr ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I would lose my mind without this app. Makes it so easy to keep track of everything and see how well you are doing"
+    },
+    {
+        "author": " Jasur Lutfillayev ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app! Though smtimes alerts don't work"
+    },
+    {
+        "author": " Ed Manning III ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It is addicting when you get it setup with what you own or are keeping an eye on. Easy to use. Best app that I have found for this type of application."
+    },
+    {
+        "author": "  ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app with good news overviews and easy to use interface."
+    },
+    {
+        "author": " Geoffrey Cockison ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I really enjoy it. Pretty easy to use :)"
+    },
+    {
+        "author": "  ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It really is a quick and easy way to keep track of a complete portfolio big or small."
+    },
+    {
+        "author": " Jonathan Citizen ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Full featured and just what I needed to keep track of my \"investments\". Haha Thanks!"
+    },
+    {
+        "author": " Engr. Val ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Would love the default currency to be in btc,not dollars."
+    },
+    {
+        "author": " dave davedson ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It's great"
+    },
+    {
+        "author": " Yinka Afolabi ",
+        "date": "25 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Able to see the cryptos on my watclist at the exchanges at buy/sell them from."
+    },
+    {
+        "author": " Garrett Totcky ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  This is a great way to keep track of my Crypto and the markets. Couldn't be happier"
+    },
+    {
+        "author": " Hieu NguyenTrung ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It is perfect"
+    },
+    {
+        "author": " Matthew Bradshaw ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best crytpo trading companion. I use it for every single one of my trades."
+    },
+    {
+        "author": "  ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good app it crashes sometimes but it's always accurate on prices"
+    },
+    {
+        "author": " Michael Sugrue ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great aggregator of coin values, but love the customizable news feature the best."
+    },
+    {
+        "author": " Scott Gregory ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  absolutely love this app. So simple to keep all of your holdings of all of your cryptocurriencies in 1 app"
+    },
+    {
+        "author": " Duarte Vizcaino ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Simplemente Perfecta"
+    },
+    {
+        "author": " Charlie Bell ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very accurate"
+    },
+    {
+        "author": " amine tamdy ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very good app"
+    },
+    {
+        "author": " Joshua Matthews ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Has every feature I was looking for all in one simple package."
+    },
+    {
+        "author": " Joost Melkert ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Grote blij"
+    },
+    {
+        "author": " Jose Mª Verdú ",
+        "date": "25 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  No API, no party."
+    },
+    {
+        "author": " toan vuhuu ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great apps. Easily to follow all the investment."
+    },
+    {
+        "author": " Don russ ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best out there...if trading function was built in it would be amazing..but great as is"
+    },
+    {
+        "author": " Raymund Enriquez ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Flawless on S6"
+    },
+    {
+        "author": " 17m views ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Most useful application found on earth for Traiding purpose..."
+    },
+    {
+        "author": " cat caty ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great. Easy to use."
+    },
+    {
+        "author": " Alok Singh ",
+        "date": "25 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " eslam attya ",
+        "date": "25 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very good"
+    },
+    {
+        "author": " Yusaini Abu Bakar ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Joko Susilo ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  awesome... but Please Add Indonesian Exchange = bitcoin.co.id to the App, then will be 5 stars... greattt... thanksss"
+    }
+][
+    {
+        "author": " Peter Bitcoin ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Such  a great app to track and record cryptos! So easy to use, read and study!"
+    },
+    {
+        "author": " Syed Jafri ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great interface."
+    },
+    {
+        "author": " Luis C Villasmil ",
+        "date": "24 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great"
+    },
+    {
+        "author": " CryptoKnight ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Erik Lindgren ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best out there, but can we have more options for viewing everything in BTC inside each item plx"
+    },
+    {
+        "author": "  ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app! Used it on iOS, android version seems little buggy. However, best app out there for protfolio management. Team always responds to feedback."
+    },
+    {
+        "author": " Nicholas Porto ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very helpful to keep track of transactions and monitor the market"
+    },
+    {
+        "author": "  ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Ivan Jelic ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Excellent, but would recommend the percentage info about how much of each crypto is compared to the portfolio. Keep up the good work guys"
+    },
+    {
+        "author": " Rasheen B ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Easy to use. Love the way you can set alerts"
+    },
+    {
+        "author": " Matthew Powers ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app for keeping track of blockchain cryptocurrency investments! I have the value of my portfolio at my fingertips."
+    },
+    {
+        "author": " Comrade Pupper ",
+        "date": "24 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Wonderful app, kinda wish there was a way to sync my Bitcoin wallet or NiceHash miner with this"
+    },
+    {
+        "author": " Mika mdbaltzar ",
+        "date": "24 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  A grate tool"
+    },
+    {
+        "author": " Gary Mcneish ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Amazing app highly recommended"
+    },
+    {
+        "author": " AudioBooks ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I like it :) the alert option is very usefull."
+    },
+    {
+        "author": " Monty Harding ",
+        "date": "24 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Would be five stars if it had the option to list the price changes as a percentage, rather than a denomination of the coin"
+    },
+    {
+        "author": " Sachin Amarnath ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Brilliant"
+    },
+    {
+        "author": " Madie Unicore ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good"
+    },
+    {
+        "author": " Hann Ming Low ",
+        "date": "23 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  Too many bugs"
+    },
+    {
+        "author": " nabeel khan ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good app for making own portfolio"
+    },
+    {
+        "author": " Cesar Garcia ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Totally keeps track"
+    },
+    {
+        "author": " Son Nguyen ",
+        "date": "23 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Very useful but will be better if it can show me  my total loss and profit instead of showing it separately by each coins I'm holding."
+    },
+    {
+        "author": " Jonas Yeo ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Must Have!"
+    },
+    {
+        "author": " Jibin Kottayil ",
+        "date": "23 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Please add support for opening links from news sources externally from the app. We dont have complete access to read them properly as they aren't optimized for blockfolio. Especially Reddit."
+    },
+    {
+        "author": " Farooq Ali ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very good"
+    },
+    {
+        "author": " Amit Handa ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great App Fast update..."
+    },
+    {
+        "author": " Wireball MacCarter ",
+        "date": "23 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great for tracking buys and sells on exchanges.  But utterly incapable of handling cryptocurrency you mined yourself - you *have* to choose an exchange when entering assets, and then it figures out how much you \"paid\" for it.  Rather misleading for mined currency, albeit excellent for pure traders."
+    },
+    {
+        "author": " Fahd Ennaciri ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  useful app... helps me keep track of all my investments"
+    },
+    {
+        "author": " Callum Campbell ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app, would love a pie chart to see my portfolio though, don't think it would bee too hard to integrate"
+    },
+    {
+        "author": "  ",
+        "date": "23 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  The only reason I rated it five stars is because there's no option to backup data and import in case you get a new phone.  Other than that it's a great app to track profit and loss in your portfolio"
+    },
+    {
+        "author": " Michael Gorbachev ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome app / crypto simulation."
+    },
+    {
+        "author": " Phillip Gutwein ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Blockfolio.  --BlockFabulous.-- Thank you!"
+    },
+    {
+        "author": " Patricio Olguin ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very nice app."
+    },
+    {
+        "author": " David Mills ",
+        "date": "23 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Works very well when it's working. I find it's well laid-out and intuitive to use. Unfortunately, it seems to have trouble connecting through the Wi-Fi when my other applications are having no problems at all.  This is very hit-and-miss and I've seen no pattern to this behaviour. I contacted the creator of the app and they responded quickly and tried to help. The bottom line is, for my needs, it's still the best app out there.  FYI, if you go to settings, then click on the bugs, then click sync, it does seem to work again for a while after that."
+    },
+    {
+        "author": " Luke Davidson ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Does the job"
+    },
+    {
+        "author": " Rajko Bezarevic ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app for crypto rebels."
+    },
+    {
+        "author": " Van Marco Villegas ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great tool to monitor crypto portfolios"
+    },
+    {
+        "author": " shaun downing ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great way to visualize  gour portfolio"
+    },
+    {
+        "author": " IDOWU OLUSESI ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  A very useful app for crypto Enthusians, easy to use, and a friendly interface.  5star is the least I can rate this app"
+    },
+    {
+        "author": " Tez Price ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best portfolio app"
+    }
+][
+    {
+        "author": " Eric M ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Solid and simple"
+    },
+    {
+        "author": " Chris Johnson ",
+        "date": "23 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  The best"
+    },
+    {
+        "author": " Adwazo Reloaded ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Goood app"
+    },
+    {
+        "author": " manifold d ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app!"
+    },
+    {
+        "author": " Mr Zed ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Perfect app to keep track on the investment."
+    },
+    {
+        "author": " Shane Griffin ",
+        "date": "22 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Good interface, values seem accurate. Gave it 3 stars due to it only having ability to add holdings from buy or sell exchanges, need custom option for mining, forging, or trades. That ever gets add this app is easy 4 or 5 stars"
+    },
+    {
+        "author": " ed lira ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Gr8 app..."
+    },
+    {
+        "author": " Ken F ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Extremely easy to use and very accurate with market price fluctuation."
+    },
+    {
+        "author": " Tommy Phan ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great tool, just what I was looking for"
+    },
+    {
+        "author": " Pramil Chaudhary ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Alert not working properly. Checked 5-10 times. I don't know why it goes to sleep. If app is open then its giving result else it sleeps. Please fix the issue."
+    },
+    {
+        "author": " Johnny Sanford ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Amazing way to track your crypto inveatments. Would recommend!"
+    },
+    {
+        "author": " Nick Kim ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app for the most part. I really want to set price alerts by Coin:USD but seems like only option is Coin:BTC. Please add this feature!"
+    },
+    {
+        "author": " Raul Gregg ",
+        "date": "22 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  The only hard time is to consolidate your assets. Let's say I bought ETH for USD and BTC, it shows separate. Also manual input helps to keep control, but when you trade, not suitable at all. Still, very good and handful app."
+    },
+    {
+        "author": "  ",
+        "date": "22 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Good app but its now bugged for me when i try to put persistent alerts on. They seem to always remain 1 time alerts when i save them. ."
+    },
+    {
+        "author": " Mart Wubben ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  -Easy calculations of profit/loss -Relevant news -Crypto prices are up to date"
+    },
+    {
+        "author": " light weight ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app! I love the news feature! Keeps me updated!"
+    },
+    {
+        "author": " locksmith ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Unbelievably accurate info I consult before buying ANY cryptocurrency."
+    },
+    {
+        "author": " Ryan Shepherd ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It has its glitches but I love it. Use the alerts to monitor market movements across multiple exchanges. Very intelligent app!"
+    },
+    {
+        "author": " Mohammad Atef ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great but add  feature to add notes to the coins if set watch only and add notes to alarms"
+    },
+    {
+        "author": " Mikkel Grevy ",
+        "date": "22 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Needs more content, most importantly add a feature to show coins who only trade to BTC to get the bitcoin amount as USD."
+    },
+    {
+        "author": "  ",
+        "date": "22 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  good app"
+    },
+    {
+        "author": " Iza I ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very precise."
+    },
+    {
+        "author": " Sharizad abd talib ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good"
+    },
+    {
+        "author": " Mohit Amlani ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good app"
+    },
+    {
+        "author": " Denise Chase ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app easy to use.  Lots of up-to-date info."
+    },
+    {
+        "author": " Joe Lopez ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Wonderful"
+    },
+    {
+        "author": " DUSTIN WAHLEN ",
+        "date": "22 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Easy to use and I like the news feed! Make an option to donate and I will."
+    },
+    {
+        "author": " Greg Stephenson ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works well"
+    },
+    {
+        "author": " ASLIM PASHA ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Love it"
+    },
+    {
+        "author": " Vignesh R ",
+        "date": "21 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Nice application"
+    },
+    {
+        "author": " Davis Green ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app to manage and keep track of your portfolio. A few features missing like total ROI which are planned for next upgrade i was told."
+    },
+    {
+        "author": " David Zai ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Easy to use"
+    },
+    {
+        "author": " Norbertus Citra Irawan ",
+        "date": "21 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Best"
+    },
+    {
+        "author": " Aaron Potter ",
+        "date": "21 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Wish there was a more detailed report of profit or loss of individual transactions"
+    },
+    {
+        "author": "  ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  The best crypto ticker."
+    },
+    {
+        "author": " Zachary Spears ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best in class"
+    },
+    {
+        "author": " Alex Boughey ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Does everything I want it to in a quick clean manner"
+    },
+    {
+        "author": " satyaban Maharana ",
+        "date": "21 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Really great app to use"
+    },
+    {
+        "author": " Mike Evertz ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Gr8 set up alerts and stay in touch with what's happening 10 outta 10"
+    },
+    {
+        "author": " Alessio Trabelsi ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app. One of a kind and much needed. I have a few recommendations. API for bittrex so it can automatically download all of my orders to the app. The second would be a search function for the news section so I could find info for a coin faster , maybe even a way to prepare news feed with keywords, with RSS would make this awesome... I know im asking to much but execute orders and sales would make this the ultimate application. Keep up the great work"
+    }
+][
+    {
+        "author": " azmeir izwady ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good"
+    },
+    {
+        "author": " ECHEZONA EMMANUEL NWEZE ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome"
+    },
+    {
+        "author": " B Taylor ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good app. Now quit pestering me to review the trucking thing."
+    },
+    {
+        "author": " Fernando Calil ",
+        "date": "21 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Very nice app"
+    },
+    {
+        "author": " Goran Rovcanin ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app! Missing option for multiple portfolios."
+    },
+    {
+        "author": " Jim Bowen ",
+        "date": "21 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Stopped showing profit in USD, only showing in BTC now 😕"
+    },
+    {
+        "author": " Priyank Gupta ",
+        "date": "21 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  If you add indian currency for trade, it will be great for us."
+    },
+    {
+        "author": " Dumitru Dafinescu ",
+        "date": "21 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Will be a lot nicer to be able to close that alarm that all the time shows below $4000. I tried everything ....."
+    },
+    {
+        "author": "  ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good for quickly checking prices"
+    },
+    {
+        "author": " Steve Lelei ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Marcus Christiansen ",
+        "date": "21 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  I'd love my orders to be synced with my bittrex account"
+    },
+    {
+        "author": " Shane JINGO ",
+        "date": "21 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Handy"
+    },
+    {
+        "author": " Dan Shenk-Evans ",
+        "date": "20 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Nice interface.  Wish it was linked to account so I could transfer to another phone.  Would like desktop  browser option too."
+    },
+    {
+        "author": "  ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very good app"
+    },
+    {
+        "author": " Kathy VanDoren ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app. Has the most needed information and good news comments. I prefer a black user interface it uses less battery powerI."
+    },
+    {
+        "author": " Booz Celestin ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I wish they had bitmex listings."
+    },
+    {
+        "author": " hashim iqbaal ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great"
+    },
+    {
+        "author": " Bill Craig ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  👌👌👍👍"
+    },
+    {
+        "author": " David Johnson ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Really solid app, quick and easy to use. Nice way to take paranoid glances at my holdings and price movements :p"
+    },
+    {
+        "author": " Charlie McCormack ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app that does what I want."
+    },
+    {
+        "author": "  ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice job"
+    },
+    {
+        "author": " Simon Egbunike ",
+        "date": "20 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Clean and easy to use"
+    },
+    {
+        "author": " Braden Christensen ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome!"
+    },
+    {
+        "author": " Justin Weyer ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great tracker - just needs completely custom time period selection for when reviewing coin performance."
+    },
+    {
+        "author": " Luis Alberto Herrera Gomez ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Excellent app to track your altcoins investments"
+    },
+    {
+        "author": " chandan mehta ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Excellent portfolio"
+    },
+    {
+        "author": "  ",
+        "date": "20 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Great app but Really needs a backup function change phones alot and have to key all my data manually!"
+    },
+    {
+        "author": "  ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Bishal Lama ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great work"
+    },
+    {
+        "author": " issaavedra ",
+        "date": "20 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Good app. Lack a better coin/satoshi convertion, but very useful otherwise."
+    },
+    {
+        "author": " Jason Selph ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Covers all the bases. Alerts and charting and customization all work as expected."
+    },
+    {
+        "author": " Amazing Canada deals ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  A must have if you are investing in Crypto"
+    },
+    {
+        "author": " Ashwin Kumar ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Try to provide an option to login to exchanges in read only mode atleast so that it'll be easy to manage our portfolio."
+    },
+    {
+        "author": " Jakob Åhman ",
+        "date": "20 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  \"Unable to delete. Please try again later\" when trying to remove coins or transactions. Can't add or change anything. Tried uninstall/install but no difference. So basically unusable in this state. :( Otherwise good.."
+    },
+    {
+        "author": " Timothy Carden ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome app"
+    },
+    {
+        "author": " Rodrigue Bouvier ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Love it! Really well done and straight to the point. The only crypto app I need"
+    },
+    {
+        "author": " Skaidris Gunsmith ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Industry standard"
+    },
+    {
+        "author": " Ivan Horn ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works well, minor bug in refreshing holding data when you update the chart."
+    },
+    {
+        "author": " Rude Mudcrab ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It's the best"
+    },
+    {
+        "author": " Braden Hayes Glick ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app for tracking crypto all in one place"
+    }
+][
+    {
+        "author": " C.C. G. ",
+        "date": "20 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Lacks coin to euro"
+    },
+    {
+        "author": " Julio marin ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good"
+    },
+    {
+        "author": " Ajayi Joshua ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Cool"
+    },
+    {
+        "author": " Jay R ",
+        "date": "20 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice"
+    },
+    {
+        "author": " Ty Walker ",
+        "date": "20 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great app for tracking your portfolio. Kind of a pain if you actively trade on exchanges as you have to manually enter every trade price and amount, and it doesn't deduct / add to your BTC or ETH balance, but still I use it daily."
+    },
+    {
+        "author": " Himal Thapa ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very upto date and accurate."
+    },
+    {
+        "author": " Octavio Durich Sturich ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  The best real time crypto manager"
+    },
+    {
+        "author": " Vadim Kirichenko ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Robust with fast rate updates on refresh."
+    },
+    {
+        "author": " David Parker ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Well made app."
+    },
+    {
+        "author": " Billy Chau ",
+        "date": "19 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  nice app. neat and give u exactly what u care most"
+    },
+    {
+        "author": " Guy Francise ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Easy cool"
+    },
+    {
+        "author": " David Fink ",
+        "date": "19 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great app and very responsive developers. Looking forward to further improvements and a way to pay the developers for this app."
+    },
+    {
+        "author": " PeloDelMono ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Absolutely perfect for keeping track of your portfolio."
+    },
+    {
+        "author": " Walter Prescott ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great tracking app!"
+    },
+    {
+        "author": " Jason Witt ",
+        "date": "19 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Easy to use and up to date pricing at my fingertips."
+    },
+    {
+        "author": " Joan Torres ",
+        "date": "19 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Super useful app for crypto-junkies, I can't leave without it. But there's a bug with the alerts, I keep receiving notifications for certain coins even though the price thresholds are not crossed. Please fix this to get a 5 stars review, it's making me crazy! Cheers"
+    },
+    {
+        "author": " Tomas Gudziunas ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very usefull."
+    },
+    {
+        "author": " Salvatore Delle Palme ",
+        "date": "19 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great app. Would be 5 stars if it had a bit more functionality."
+    },
+    {
+        "author": " Joseph Van Fleet ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Perfect.  Super easy to use and supports lots of coins."
+    },
+    {
+        "author": " Andrey ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great to keep track of your crypto"
+    },
+    {
+        "author": " Oran McLean ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Exactly what I was looking for to monitor my coins, thanks"
+    },
+    {
+        "author": " Frank G ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app and you can't beat free"
+    },
+    {
+        "author": "  ",
+        "date": "19 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great but needs way yo move funds around without having to chain buy/sells"
+    },
+    {
+        "author": " Philip Daineka ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great to track cryptocurrencies!"
+    },
+    {
+        "author": " Maher Vicky ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome  for Calculating  Profit or Loss"
+    },
+    {
+        "author": " mickohaker1 ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best crypto app"
+    },
+    {
+        "author": " Nicholas Washington ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": "  ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app. Most pairs are listed. Works smoothly and updates quickly. I only couldn't find BTC/USDT"
+    },
+    {
+        "author": "  ",
+        "date": "19 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Nice apps but am noticed price alert dint works."
+    },
+    {
+        "author": " JoelPlatoon ",
+        "date": "19 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Simple"
+    },
+    {
+        "author": "  ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Michael Bandy ",
+        "date": "19 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Quick and easy"
+    },
+    {
+        "author": " Anand U ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great App"
+    },
+    {
+        "author": " Shawn Lin ",
+        "date": "19 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Good stuff! Can u integrate with note 8 dual icon? Is easier if i can open app n calculator at the same time"
+    },
+    {
+        "author": " Jade Chaaya ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very hand app. Notifications need more options, need sound to alert me while sleeping!"
+    },
+    {
+        "author": " Rent To Own Homes ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Superb app"
+    },
+    {
+        "author": " Dan Stone ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Love it, been nice and stable and has all the altcoins"
+    },
+    {
+        "author": " Andrew Jackson ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app to keep you up to date. Would like a function for all altcoin holdings to be seen in US dollars rather than bitcoin but otherwise I really like it."
+    },
+    {
+        "author": "  ",
+        "date": "19 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Its okay"
+    },
+    {
+        "author": " danie jacobs ",
+        "date": "19 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Brilliant"
+    }
+][
+    {
+        "author": " Bravo TwoZero ",
+        "date": "19 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  good"
+    },
+    {
+        "author": " Imran Khan ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It's a very good & helpful app."
+    },
+    {
+        "author": " BP Greyling ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Not quite the Swiss army knife of crypto dashboards, but keep up the good work. I expect great things"
+    },
+    {
+        "author": " Esau Tucker ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great way of keeping track of your day to day balance."
+    },
+    {
+        "author": " Oscar Daniel Raygoza Mora ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Excellent"
+    },
+    {
+        "author": " Maurice van Tongeren ",
+        "date": "18 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Could be great if the page refresh is done on load. And if we can see % 24h change not value. (24 h change per asset not total)"
+    },
+    {
+        "author": " Vlad TNX ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I like it"
+    },
+    {
+        "author": " nathaniel kenny ",
+        "date": "18 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Good program"
+    },
+    {
+        "author": " Jason Magro ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Excellent app"
+    },
+    {
+        "author": " DANIEL PEÑA ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good"
+    },
+    {
+        "author": " Michael Vetrano ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app for viewing all your crypto, very nice simple ui"
+    },
+    {
+        "author": " Richard Layman ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Love it, just wish ot updated automatically."
+    },
+    {
+        "author": " d4n ",
+        "date": "18 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Hey can you guys fix an issue I'm having. I have to tie a lot of pairs to the Etherdelta exchange and I get some funky numbers every once in a while and it messes with my graphs a lot. Like 1 etherdelta trade can put my portfolio up to 42b and then my graph is just one spike. Ty love the app over all."
+    },
+    {
+        "author": " Paul Em ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best app to track your crypto, but could still have some improvements like pie charts for portfolio percentage"
+    },
+    {
+        "author": " Kenneth Chan ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  The app was awesome. Things to add on which may help. Add Alarms notes - the alarm that sounds always shows in usd and it's difficult to convert usd to our local currency."
+    },
+    {
+        "author": " Johnathan Lilly ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Excellent for those who need a simple, mobile way to keep track of their portfolio. Super easy to navigate."
+    },
+    {
+        "author": " Thomas Schaffer ",
+        "date": "18 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Very good app"
+    },
+    {
+        "author": " Ravager HD ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Does what it says really."
+    },
+    {
+        "author": " Jesus Marrero ",
+        "date": "18 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  It's not 100% on time with what it displays but it definitely gets the job donefor sure. Even if it's just some sort of FB back up, this app desperately needs some sort of back-up option. If you document all of your buys and sells and then get a new phone, you basically have to start fresh unless you want to spend hours re-inputting all of your info all over again."
+    },
+    {
+        "author": " Vineet Mahendru ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Legit"
+    },
+    {
+        "author": " Otto Kinn ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Perfect for building \"What If\" scenarios."
+    },
+    {
+        "author": " Spence Redford ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Simple"
+    },
+    {
+        "author": " Cameron Palan ",
+        "date": "18 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Super easy to use and looks great. I wish they had widgets though."
+    },
+    {
+        "author": " סאני אבולש ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  great app, very easy to use, no code and u get all the info you need, and more"
+    },
+    {
+        "author": " SADIQ .K ",
+        "date": "18 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Sometimes app automatically stops...otherwise it is a good app...still i rate 5/5"
+    },
+    {
+        "author": " Aleksandar Nachev ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Найсс"
+    },
+    {
+        "author": " Tigran Muradyan ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app. Thanks"
+    },
+    {
+        "author": " KAPIL KUMAR ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice app"
+    },
+    {
+        "author": " David Garcia ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good to track coins"
+    },
+    {
+        "author": " entertenment 2017 ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good apps  and helpful."
+    },
+    {
+        "author": " miroslav gerasimov ",
+        "date": "18 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app for quick and easy portfolio tracking.  Best for hodl strategy"
+    },
+    {
+        "author": " Barry Gant ",
+        "date": "18 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  I like it for the price updates and news aggregate but the percentage price increases are all wrong darn near all the time. They are wrong by a huge margin sometimes."
+    },
+    {
+        "author": "  ",
+        "date": "18 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Good app, especially  the news features."
+    },
+    {
+        "author": " xstiv07 - ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome"
+    },
+    {
+        "author": " Carolyn Jiang ",
+        "date": "17 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Good app.  Freezes on occasion but overall very useful."
+    },
+    {
+        "author": "  ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  All good"
+    },
+    {
+        "author": " Anthony Petecca ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app! Charts are a bit confusing compared to what I'm used to but everything else is great!!"
+    },
+    {
+        "author": " Gabriel Pothier ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Woah"
+    },
+    {
+        "author": " endian10 ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome app."
+    },
+    {
+        "author": " Raymond Bishop ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It's really easy"
+    }
+][
+    {
+        "author": " Saul Ianto ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Satisfied with blockfolio!"
+    },
+    {
+        "author": " Mustufa Husain ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Joseph Mtwange ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice program works as per promise"
+    },
+    {
+        "author": " Muhammad Hassaan ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Please add a feature which can determine the percentage of our investment"
+    },
+    {
+        "author": " Paul Foty ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app! The coin taking is nice but I actually love the news aggregation the most."
+    },
+    {
+        "author": " Wayne Cooper ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Better than most of the other portfolio Apps :)"
+    },
+    {
+        "author": " 1 2 ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very good. Thanks. Very useful"
+    },
+    {
+        "author": " Kevin Triplett ",
+        "date": "17 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  The program keep you up to date on your investments. I have only half it freeze up on me two times. Overall it is great app."
+    },
+    {
+        "author": " Ovidiu Gabriel ",
+        "date": "17 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Useless, not able to add basic ETH USD holdings :("
+    },
+    {
+        "author": " S. Eden. ",
+        "date": "17 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Perfect App except one small flaw. When you enter the exact cost you paid for an item it constantly changes after saving. If I bought ABC at price $50 (at that time). And now ABC is worth $75. Even when manually editing my initial cost of $50 it always changes in relation to BTC, etc. You need to be able to lock in your cost."
+    },
+    {
+        "author": " George Lascu ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice & practical"
+    },
+    {
+        "author": " Bernie Miller ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  excellent app ...simple to use ...powerful !"
+    },
+    {
+        "author": " W. York ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It does everything you would want this kind of app to do, with an easy-to-use interface."
+    },
+    {
+        "author": " Anthony Strickland ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Handy app. Good organization"
+    },
+    {
+        "author": " jim cobianchi ",
+        "date": "17 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  App is great only thing it is missing is a back up feature or way to transfer info to new device then 5 stars"
+    },
+    {
+        "author": " Harish Dhingra ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Ausumn app"
+    },
+    {
+        "author": " Mike Stachewicz ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works great"
+    },
+    {
+        "author": " Yogesh Upadhyay ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Pretty handy app. Trends could be better depicted."
+    },
+    {
+        "author": " agnel daniel ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Amazing"
+    },
+    {
+        "author": " Soroush Hamooni ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Its great"
+    },
+    {
+        "author": " John Taylor ",
+        "date": "17 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  It updates better and faster than CoinCap, charts are a bit goofy in that the period separators, for example, on a 1hr chart are not aligned to 10 minutes so you have to mentally work out when the next period will end in order to rationalize what you are looking at. Has potential, but not there yet."
+    },
+    {
+        "author": " Banmeet Arora ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Brilliant app for maintaining your portfolio. Only disadvantage is that it does not allow you to backup your profile."
+    },
+    {
+        "author": " Andrew Ayala ",
+        "date": "17 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app!"
+    },
+    {
+        "author": " NITISH kumar ",
+        "date": "17 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Orchid Grass ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  The best App in its category, I do however miss the currencies 'Lykke' and 'Steem Power'"
+    },
+    {
+        "author": " Yogesh Chaudhary ",
+        "date": "16 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Good"
+    },
+    {
+        "author": " Jacque Oosthuizen ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  A really well made app with a great UI."
+    },
+    {
+        "author": " Amit Arora ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app... Love this app.. also analysis well for traders & Investers"
+    },
+    {
+        "author": " AJ West ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  The only thing that would make this better would be if I could input how much of a currency I own without needing to declare exactly when and how much I paid for it."
+    },
+    {
+        "author": " Ashok Singh ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app!!"
+    },
+    {
+        "author": " kathryn sadler ",
+        "date": "16 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  alerts should be in the currency of purchase not just based off bitcoin, also would be nice to streamline the purchasing and selling aspects of the app"
+    },
+    {
+        "author": " jeison herra ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Excellent"
+    },
+    {
+        "author": " Nicholas Cellerini ",
+        "date": "16 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Works, but you can't set alerts if the price raises/falls in anything other than USD. Not much help"
+    },
+    {
+        "author": " Joseph Villatoro ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Simple and easy to use."
+    },
+    {
+        "author": " Shannon Goh ",
+        "date": "16 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great simple app. Would be btr if they allow shared coin transactions to be stated. Eg. Bought in BTC but sold in ETH."
+    },
+    {
+        "author": " zainali2323 ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app, easy to use."
+    },
+    {
+        "author": " Herman Lim ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  A very versatile app."
+    },
+    {
+        "author": " Chad Leedy ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app! Very useful in tracking asset worth."
+    },
+    {
+        "author": " Kévin Perrée ",
+        "date": "16 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Need to connect it to bittrex API ASAP for automatic coins addition"
+    },
+    {
+        "author": " M L ",
+        "date": "16 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great app for logging total gross value"
+    }
+][
+    {
+        "author": " Duane Hutchins ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good for simple tracking"
+    },
+    {
+        "author": "  ",
+        "date": "16 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Well designed app, would be perfect if it allowed custom time frames in charts and APIs to import transactions automatically."
+    },
+    {
+        "author": " Mike McKillop ",
+        "date": "16 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Nice app, works quite well. I'll keep using it until it dies or I find something better."
+    },
+    {
+        "author": " Dan Capri ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Working great so far"
+    },
+    {
+        "author": " Balaraj Choudhury ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Love it"
+    },
+    {
+        "author": " LOC HA ",
+        "date": "16 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Very useful app. Sorting by price is not working correctly, please fix it. Thanks!"
+    },
+    {
+        "author": " C P ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great application, easy to use, prices at a glance. Updates faster than coinmarketcap as you are seeking a price directly from a single exchange of your choice ie. Bittrex. Would be nice to have the full market capitalization at the top with detailed statistics. Favorite feature within the application would have to be the news. Great sources and always up to date. Keep up the great work!  Ps. where's the desktop app? And please set up a few wallets for donation. Thanks!"
+    },
+    {
+        "author": " Kaveh Kavoosi ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Clean UX and complete as an informer of crypto portfolio status!"
+    },
+    {
+        "author": " John Savely ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very handy"
+    },
+    {
+        "author": " Steven Wichert ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very good app to overview my portfolio. The current charts will be updated fast, maybe there are 5min behind, depends on the chosen exchange platform."
+    },
+    {
+        "author": " Brickcellent ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Excellent but I think if there was a feature to have multiple portfolios it'd be really handy as I invest for others as well as myself, and I also like keeping longterm and shortterm investments logged separately to get a more accurate reading of each."
+    },
+    {
+        "author": " Andrejs Cainikovs ",
+        "date": "16 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  Very nice app, but has problems:  1. Updating data from exchange. I use Bitstamp, and on refresh the app can't update most of the time, you need to kill the app, and reopen. I do not have any connectivity issues with other apps or wifi/cellular.  2. It shows graphs up to 1 month. If you select bigger scope, graphs are not displayed correctly.  3. It messes up graph data on 1 hour chart. Try to refresh it - on every update (if it works) graph is displayed a bit differently.  4. No graph scroll. This alone is the reason to look for another app.  Please fix all this, and I bet this will be the best exchange monitoring app out there."
+    },
+    {
+        "author": " Sid Sakhuja ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  All I wanted to do was unofficially manage my funds and get alerts in different currencies.  And... These guys knock it out of the park.  Totally respect and appreciate the work.  Thanks guys!!!"
+    },
+    {
+        "author": "  ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  very useful app, nice n stable"
+    },
+    {
+        "author": " Armin Shamchizade ",
+        "date": "16 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Amazing useful app"
+    },
+    {
+        "author": " Neil Taft ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Easy to use, great interface, good job"
+    },
+    {
+        "author": "  ",
+        "date": "16 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Simple and clean app. Does the job perfectly. Missing a backup feature."
+    },
+    {
+        "author": "  ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best crypto app on the market. I finally took a moment and rate it :). A nice extra feature would be to be able to move the coins in the list on a certain position by selecting the coin and introducing a number in a pop-up box for example."
+    },
+    {
+        "author": " Manoj Udayan ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very informative n useful app for crypto traders"
+    },
+    {
+        "author": " alexander solmer ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice app"
+    },
+    {
+        "author": " Sebastien Bailouni ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app, a great way to keep track of all your transactions across multiple currency exchanges"
+    },
+    {
+        "author": " Brandon Digges ",
+        "date": "16 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice"
+    },
+    {
+        "author": " Aiman Baharum ",
+        "date": "16 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Please add fingerprint auth or PIN"
+    },
+    {
+        "author": " Alejandro Nieves ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Excellent App"
+    },
+    {
+        "author": " imthebest101 _siegfred ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very good"
+    },
+    {
+        "author": " Randy Cowan ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Was everything I was looking for"
+    },
+    {
+        "author": " Anson Phong ",
+        "date": "15 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Very helpful for coin trading, love it, though crashes frequently on my S8, very unstable software."
+    },
+    {
+        "author": " Lazy J ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  keeps track of your cryprocurrency, quick chart access + real time price display and a bonus of easy access bitcoin related articles. App loads quickly. A+ app."
+    },
+    {
+        "author": " Paulie Walnuts ",
+        "date": "15 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  great app to alert margins.  wish u could reset the graph for all time without reinstalling"
+    },
+    {
+        "author": " Al Thompson ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works very well!"
+    },
+    {
+        "author": " Jake Holland ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Riar Art ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app works well."
+    },
+    {
+        "author": " David Haze ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Easy to use, does the job its meant to do. Perfect app for keeping an eye on your portfolio without opening your exchange/wallets all the time"
+    },
+    {
+        "author": " Nick Rodriguez ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Yeeeeee"
+    },
+    {
+        "author": " Andrew Bondarenko ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome app! Sums up everything in a nice concise view and also has news! 5/5!"
+    },
+    {
+        "author": " Abraham Miranda ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very useful app"
+    },
+    {
+        "author": " Gordon Ross ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great job."
+    },
+    {
+        "author": " Jan Bertrand ",
+        "date": "15 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Easy, modern and professional feel"
+    },
+    {
+        "author": " Rick Mitchell ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works great on LG G6"
+    },
+    {
+        "author": " Steve Perez ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Concise and user friendly"
+    }
+][
+    {
+        "author": " Zeshan Md ",
+        "date": "15 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Good for keeping track of your crypto portfolio."
+    },
+    {
+        "author": " Paul Flagge ",
+        "date": "15 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Good all-around, but the price doesn't automatically refresh and there's no refresh button"
+    },
+    {
+        "author": "  ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app. Any chance we can get a few changes though...  Make it easier to switch from say xrp/btc & xrp/usd. Its a pain having to load two versions of the same coin.  Make the faint graph lines/graph axis numbers fall on big whole numbers instead of arbitary numbers.  Make ability to switch between normal & logerithmic scale on graphs  Some v basic technical analysis tools for graphs e.g. draw support/resistance/trend lines."
+    },
+    {
+        "author": " varghese jacob ",
+        "date": "15 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great"
+    },
+    {
+        "author": " Le Linh ",
+        "date": "15 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Good app for bitcoin"
+    },
+    {
+        "author": "  ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome app just wish you could add alerts based on percentage and not value"
+    },
+    {
+        "author": " Mark Roe ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Easy to get what I need"
+    },
+    {
+        "author": " Joe Pich ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Yum"
+    },
+    {
+        "author": " drew martin ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very useful"
+    },
+    {
+        "author": " waheed ahmed ",
+        "date": "15 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  it's not letting me do anything . cannot add or remove coins or transactions. same error unable to delete . please try again later ."
+    },
+    {
+        "author": " David Orozco ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great tool, quick sync, better usability"
+    },
+    {
+        "author": " Martin Forisch ",
+        "date": "15 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Absolutely great App, I use it EVERY DAY, a few improvements would benefit nice: Multiple Portfolios, including the option to move coins, or rather holdings between them The chart could show the average buy price of holdings as a line and in the box at the bottom.  Right now I find myself switching between the holdings & chart views a lot.  And when switching the currency, the chart should switch as well (Thank you for your answer!👍 Another nice idea would be the ability to switch between coins & holdings without going back to the main screen, especially from the holdings screen, eg swipe up or down or provide 2 buttons.)"
+    },
+    {
+        "author": " George Mason ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Excellent app, clear and easy to use even for beginners"
+    },
+    {
+        "author": " William Gikandi ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  NICE"
+    },
+    {
+        "author": " world triper ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Hodl!"
+    },
+    {
+        "author": " Abe Byrne-Jameson ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Easy and great"
+    },
+    {
+        "author": "  ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Just needs technical indicators!"
+    },
+    {
+        "author": " Keith Mcknight ",
+        "date": "15 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app to track coins. Love the realtime feedback. 👍"
+    },
+    {
+        "author": " Peter Willis ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nicely laid out, relatively easy to use. Able to compare BTC, USD and other crypto."
+    },
+    {
+        "author": " Mubeen Dhorat ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works flawlessly"
+    },
+    {
+        "author": " Michael Willis ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great"
+    },
+    {
+        "author": "  ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome app!   Would be even better if:    1.you could see your total net portfolio value.  2. A widget that would show total portfolio value on screen."
+    },
+    {
+        "author": " Gaurav Wani ",
+        "date": "14 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  I want btc as currency"
+    },
+    {
+        "author": " Rory Federico ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I really like the real time update of currency prices."
+    },
+    {
+        "author": " arista permana ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good"
+    },
+    {
+        "author": " Tony Le ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Love it"
+    },
+    {
+        "author": " Omer Shukrullah ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very useful"
+    },
+    {
+        "author": " Frank C ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app but need LTC/USD in the alert. Thanks for reply, I get it now. Is it possible to remove the trading volume in the chart? The reason is in ETH/USD 3M chart, the price line is squashed by the volume..."
+    },
+    {
+        "author": " Brandon Smith ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best fer day cryp"
+    },
+    {
+        "author": " abhishek kumar ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice"
+    },
+    {
+        "author": " Platnium ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Damn near perfect."
+    },
+    {
+        "author": " Kastriot Ismajli ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Perfect"
+    },
+    {
+        "author": "  ",
+        "date": "14 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Simple and Efficient I'd have given 5 stars if it supports more exchanges and had an audio alerts for price changes"
+    },
+    {
+        "author": "  ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  verry useful app"
+    },
+    {
+        "author": " peter godbolt ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Does what it says on the tin."
+    },
+    {
+        "author": " jp roberge ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Does what it's made for !"
+    },
+    {
+        "author": " Anthony Ruikis ",
+        "date": "14 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Nice app!  Would love the ability to be able to log in so when using multiple devices you wouldn't have to set up portfolio over and over again.  Excellent app otherwise."
+    },
+    {
+        "author": " Victor Johnstone ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice alerts"
+    },
+    {
+        "author": " Kristina Donofrio ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice interface, easy to navigate, but I  only use it to watch. I don't think I  would use my phone to trade or even display a wallet until I  felt secure that the security of my data was secure."
+    },
+    {
+        "author": " Sachin Doiphode ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  No. 1 App."
+    }
+][
+    {
+        "author": " Dante Aliv3 ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great service, timely updates of new coins"
+    },
+    {
+        "author": " Gregor Zorc ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Just HODL! :P"
+    },
+    {
+        "author": " Oli Craske ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  The best there is."
+    },
+    {
+        "author": " Joe Rodriguez ",
+        "date": "14 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Ease and practical"
+    },
+    {
+        "author": " Jegadeesh R ",
+        "date": "14 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  The app is good to see all the information in a single page but it would be more better if we are able to sync the data with our email by creating an account in this app. Thus we don't loose our buy/sell, profit/loss history when our phone is lost or reinstalled or when we change the phone we can sync the whole information into the new phone if we have an account else our complete history will be lost. So I would request you to please look into this option of data sync when we switch devices."
+    },
+    {
+        "author": " Mihai Dumitrescu ",
+        "date": "13 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  It crashes from time to time on Redmi Note 4 MTK"
+    },
+    {
+        "author": " bbp8686 ",
+        "date": "13 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  A great app for tracking and staying alert of trends and stories in the world of  cryptocurrencies."
+    },
+    {
+        "author": " Mark Studholme ",
+        "date": "13 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Wish it would tell me the % growth of my holdings."
+    },
+    {
+        "author": " Alexey Drobot ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  The one and only"
+    },
+    {
+        "author": " Venugopal Y S ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome !! Was looking for this !! Esp setting Alert notifications."
+    },
+    {
+        "author": " Vic Alfred Inting ",
+        "date": "13 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Could have been great. But charts dont work, even after syncing/fix bug. It seems to be stuck on day charts even after trying to switch to week, month or year, and values are messed up."
+    },
+    {
+        "author": " Ryan ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Love this app. Alerts me when I am losing crypto's."
+    },
+    {
+        "author": " Jerry Alamsjah ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  There is slight difference from actual price, but it's still very convenient to check your crypto-portfolio without the need to login repeatedly to multiple xchange"
+    },
+    {
+        "author": " Shannon Mendoza ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very easy to use, perfect for my son to keep track of the investments I choose for him."
+    },
+    {
+        "author": " Robert Whiteley ",
+        "date": "13 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  The exchange rates seem to be slightly out of sync with other price tracker websites.   Also, you can't currently add historical trades, which is not ideal. The team have said this is a bug and should be addressed in the next 2 months."
+    },
+    {
+        "author": " moses morar ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Thank God for this app"
+    },
+    {
+        "author": " Michael - ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Freakin awesome"
+    },
+    {
+        "author": "  ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Tracks everything I need"
+    },
+    {
+        "author": " Erik _ ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Excellent app for your daily crypto snapshot of accumulated assets. Highly recommended."
+    },
+    {
+        "author": " Denis Januzi ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Love it"
+    },
+    {
+        "author": " Advait Hasabnis ",
+        "date": "13 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Best crypto management app right now. 4 star because I would like to see more functionality in the near future. Displaying total principal fiat invested would be nice. Transactions from one coin to another within the portfolio would be a great addition."
+    },
+    {
+        "author": " Max Power ",
+        "date": "13 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  If it had a Portfolio total widget... 5*"
+    },
+    {
+        "author": " Gagan Singh ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good to manage crypto portfolio"
+    },
+    {
+        "author": "  ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Top class easy portfolio to set up and track"
+    },
+    {
+        "author": " Michael Chapman ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Tracks all my bad buys wonderfully"
+    },
+    {
+        "author": " Carlson Cheng ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  My go to"
+    },
+    {
+        "author": " Terrence S ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Just what I was looking for"
+    },
+    {
+        "author": " James Lilley ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Emanuel Moscopol ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great are reliable"
+    },
+    {
+        "author": " Christopher Williams ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very easy to use, and helpful at keeping track of all of your transactions"
+    },
+    {
+        "author": " Dyl1er ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Ryan Palo ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Justin Silva ",
+        "date": "13 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  Useful app but noticed it's giving wrong price for trades at times. Defeats the purpose if I can't accurately keep track of investments"
+    },
+    {
+        "author": " Alex C ",
+        "date": "13 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Please add a USD and a secondary option like. AUD is well"
+    },
+    {
+        "author": " Damien Davies ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good app"
+    },
+    {
+        "author": " William Bonilla ",
+        "date": "13 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Works well just a little glitch y sometimes with refreshing."
+    },
+    {
+        "author": " Anton Koriakin ",
+        "date": "13 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Useful, good"
+    },
+    {
+        "author": "  ",
+        "date": "12 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Would like an Ad/script/cookie blocker & button to clear cache in the news browser or an option to open news links in external browser"
+    },
+    {
+        "author": " Raymond Cea ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  great"
+    },
+    {
+        "author": " Avinash Shenoy ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  An excellent portfolio manager for cryptocurrency. Charts, calculates and updates prices live from various crypto markets taking into consideration currency pairings and provides sources of news to stay current (just to start with!). If these functionaries were not enough, it is a free app. In a nutshell- \"Awesome\""
+    }
+][
+    {
+        "author": " Ae Siahaan ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very helpfull"
+    },
+    {
+        "author": " Jeff Beringer ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome app. I think it would be great to be able to pull down market order history from different exchanges through an API in the future."
+    },
+    {
+        "author": " Sherry Seta-Tabb ",
+        "date": "12 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great way to track your top coins"
+    },
+    {
+        "author": " Mitchell Luke ",
+        "date": "12 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Need to be able to add fees."
+    },
+    {
+        "author": " Adi Puri ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Top notch"
+    },
+    {
+        "author": " abhinav agarwal ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best app"
+    },
+    {
+        "author": "  ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  the best out there"
+    },
+    {
+        "author": "  ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Ikenna Odinaka ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome for keep tab on crypto investment"
+    },
+    {
+        "author": " Pablo Carpio ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome app for traders"
+    },
+    {
+        "author": " Bitcoin Daily ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Brilliant.☺"
+    },
+    {
+        "author": "  ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome App for tracking Bitcoin and other Cryptocurrencies"
+    },
+    {
+        "author": " Mihai Catalin Teodosiu ",
+        "date": "12 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  It would be a 5 stars app if it would automatically subtract for example 5 eth from your eth holdings when you exchange them for xrp, for example. I think this can be implemented by adding the Trade option for btc and eth, along with the buy and sell options."
+    },
+    {
+        "author": " Jordan Rodell ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Everything I need."
+    },
+    {
+        "author": " Leo Pradeep ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Plz add more than one year graph"
+    },
+    {
+        "author": " Stephane Binette ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome app. As a miner i would like to able to add coins to my portfolios various exchanges without a price point, since i technically didn't buy the coins"
+    },
+    {
+        "author": " L James ",
+        "date": "12 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Nice interface, but don't understand portfolio tracking and why it only values ETH in bitcoin currency"
+    },
+    {
+        "author": " Jdog1668 ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Can you add Tronix (TRX), its already trading at etherdelta. Thanks"
+    },
+    {
+        "author": " Stefan Guenther ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  its gets the job done well"
+    },
+    {
+        "author": " Alex Soran ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  By far the simplest and best app I've used so far. I'd love to see Bittrex added to this. After the recent update, the charts are much more accurate.  Would it be possible to add the following feature; I would like to set an alert for when a coin goes up or down by a certain percentage against either Bitcoin or the selected currency. Ex. If Ethereum goes up by 5% alert me."
+    },
+    {
+        "author": "  ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good app"
+    },
+    {
+        "author": " sule lawrence ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  This is the best app to monitor your portfolio with. No complaints. Keep up the good work."
+    },
+    {
+        "author": " Deepak Puri ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app . It would be awesome if it had the Twitter feed of my coins."
+    },
+    {
+        "author": " Islah Shaikh ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It reduces my time by seeing in the exchange. Really love it"
+    },
+    {
+        "author": " Josh Haigh ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Comprehensive, and very good. I check nearly every day."
+    },
+    {
+        "author": " Hrvoje Topolovac ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Simple, stable, excellent"
+    },
+    {
+        "author": "  ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great"
+    },
+    {
+        "author": " Simon Ward ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Would be good if it could monitor address as well...."
+    },
+    {
+        "author": "  ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Driving my lambo on the moon whilst checking this app."
+    },
+    {
+        "author": " shadowsofglory ",
+        "date": "12 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Amazing app, but please add the option to rotate the screen!"
+    },
+    {
+        "author": " Janjan Untalan ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Easy to use"
+    },
+    {
+        "author": " Joon Lee ",
+        "date": "12 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best for cryto people"
+    },
+    {
+        "author": "  ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Easy  to use."
+    },
+    {
+        "author": " Just Do It ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Thank you for this app. Helpful!"
+    },
+    {
+        "author": "  ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great"
+    },
+    {
+        "author": " Behrad Kat ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very nice and useful app"
+    },
+    {
+        "author": " Luggus Murphy ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Solid coin tracking app"
+    },
+    {
+        "author": " Fray Wall ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Excellent portfolio app for newcomers to the Crypto Market"
+    },
+    {
+        "author": " Horia Roman ",
+        "date": "11 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Good, but needs some improvements (eg. I don't want to press 2-3 buttons to see the status of a specific coin (holdings) gain/loss. I want to see it on the main screen, as soon as I open the application, because THAT'S WHY I use this application)"
+    },
+    {
+        "author": " Mltchell Styles ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Wow"
+    }
+][
+    {
+        "author": " Sebastian Carneiro ",
+        "date": "11 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Very nice app yo keep track of your portfolio. I would only add the ability to see orders in exchanges, mark those on charts."
+    },
+    {
+        "author": " Félix Paradis ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It's working!"
+    },
+    {
+        "author": " Kino Y ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works great"
+    },
+    {
+        "author": " Scott Handel ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Just great. Simple and effective"
+    },
+    {
+        "author": " Santosh Bains ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great crypto app"
+    },
+    {
+        "author": " Roger Magalhaes ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Easy to use and great to have all my positions in one place."
+    },
+    {
+        "author": " andrus sabiin ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": "  ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Just works."
+    },
+    {
+        "author": "  ",
+        "date": "11 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Nice and simple, but lacks some depth. API integration would save a lot of time. An integrated function to write notes would be nice. And some more functions to play with graphs, like zooming in and out on specific places in time and drawing."
+    },
+    {
+        "author": " ait taleb younés ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  thanks for the great job"
+    },
+    {
+        "author": " milbert padayao ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app and its free, makes easy to monitor profit and losses"
+    },
+    {
+        "author": " Sencer Gürbüz ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good app"
+    },
+    {
+        "author": "  ",
+        "date": "11 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Does the shady thing where it asks what you would rate it before deciding whether or not to direct you to the store page to leave a review.  It would have been a 4, but this garbage is unacceptable."
+    },
+    {
+        "author": " No Google ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  This app is near perfect!  I want to request that the Blockfolio team develops a trading app.  Honestly, they are all pretty bad, and the only one with the right feel it's extremely unstable.  Blockfolio understands what people want when reading their portfolio, and I know your team could make an amazing trading app.  Thanks for making a quality product for the free market!"
+    },
+    {
+        "author": " dag ramazan ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice job team"
+    },
+    {
+        "author": " ShiftKun ",
+        "date": "11 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Really good if you know how to use it"
+    },
+    {
+        "author": " Jeremy Jennings ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Easy to use."
+    },
+    {
+        "author": " Pavlin P ",
+        "date": "11 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Better alerts are needed"
+    },
+    {
+        "author": " Sounil Ravindirane Prive ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  vwry useful"
+    },
+    {
+        "author": " Bonin Mendoza ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  easy to manage"
+    },
+    {
+        "author": " Matthew Muncy ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app to track your currencies and it's history."
+    },
+    {
+        "author": " Hendra Utomo ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Mantap"
+    },
+    {
+        "author": " gürsel ünsal ",
+        "date": "11 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  nice"
+    },
+    {
+        "author": " Nikolay Prezhdarov ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great"
+    },
+    {
+        "author": " Gavin Li ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  great, easy to use"
+    },
+    {
+        "author": " maseehsaif ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best app"
+    },
+    {
+        "author": " Rusty ",
+        "date": "11 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome"
+    },
+    {
+        "author": " ToMooNoT ",
+        "date": "11 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Can't see the time chart since 3 days ago."
+    },
+    {
+        "author": " rppydi ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very good app"
+    },
+    {
+        "author": " Nikola Renieri ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Karl Tattersall ",
+        "date": "10 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Awesome - would like to see independent reserve added to the long list of exchanges."
+    },
+    {
+        "author": " John Kitsantas ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Does what it's supposed to do. Awesome!"
+    },
+    {
+        "author": " Kyn Productions ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good and fastest update"
+    },
+    {
+        "author": " HERNAN VIDAL ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice App"
+    },
+    {
+        "author": "  ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very complete"
+    },
+    {
+        "author": " kyle den hartog ",
+        "date": "10 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  This is an awesome platform to monitor my portfolio, but it's been consuming quite a bit of battery on Android 8.0.0 on the Pixel. When this is fixed I'll change to 5*."
+    },
+    {
+        "author": " Rob Slater ",
+        "date": "10 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  Can't make alerts for ETH in USD, only BTC. Why? I don't buy bitcoin."
+    },
+    {
+        "author": " Michael Vaughan ",
+        "date": "10 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  App is great to use. Only thing that I wish you could do is create separate profiles or perhaps folders(?) to keep certain holdings separated.  Mainly for keeping track of your personal goals on specific holdings. That way you're not essentially stuck with the overview of your entire portfolio. Besides that, I'm one of many who refresh this all day long!"
+    },
+    {
+        "author": " Jared King ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  The best all in one crypto portfolio viewer app."
+    },
+    {
+        "author": " David Govea ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    }
+][
+    {
+        "author": " Satoshi Swagamoto ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Love the app great for tracking bags"
+    },
+    {
+        "author": " Mark Matz ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works gud"
+    },
+    {
+        "author": " Michele Macelloni ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Perfect to monitor crypto currencies"
+    },
+    {
+        "author": " Blaine Coury ",
+        "date": "10 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great little app. Needs api support which I know they're working on. Also needs to support inputting trades/fees rather just buy/sell. I find myself having to delete my balances and start my blockfolio transactions all over again after busy trading days because it's impossible to keep accurate."
+    },
+    {
+        "author": " rene roets ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app to monitor your coins!!!"
+    },
+    {
+        "author": " Tsvetomir Gyurov ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very good app!"
+    },
+    {
+        "author": " Daniel Payne ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Could be better but pretty good"
+    },
+    {
+        "author": " Nemesishk ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  awesome"
+    },
+    {
+        "author": " Clint Schlosser ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Does what you need. Would be cool if there was a widget too"
+    },
+    {
+        "author": " Alexander Onyeocha ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " shaun ison ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Does exactly what it should, no fluff"
+    },
+    {
+        "author": " Alexander Marwa ",
+        "date": "10 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Good app"
+    },
+    {
+        "author": " পাঁচ মিশালী ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Please add Walton Coin. Others all is okay. Awesome App. Love it."
+    },
+    {
+        "author": " RAMESH KUMAR ",
+        "date": "10 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Easy"
+    },
+    {
+        "author": " Gavin Breen ",
+        "date": "10 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Very good"
+    },
+    {
+        "author": "  ",
+        "date": "10 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Could you please add polish exchanges? Bitbay, Bitmarket with BTC/PLN trading pairs"
+    },
+    {
+        "author": " Stacksup ColdIron ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works good"
+    },
+    {
+        "author": " mark christian Sy ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app for monitoring altcoin pricing"
+    },
+    {
+        "author": " Adrian Gardiner ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great to track all my crypto"
+    },
+    {
+        "author": " Fauzi Hassan ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " DaviD ",
+        "date": "10 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Is good to track coins and always up to date."
+    },
+    {
+        "author": " Joe Mamma ",
+        "date": "9 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  It's a handy app though would be great if it had a data import/export option as Ive changed phones and have to re-enter all transactions 😕"
+    },
+    {
+        "author": " Amita Parmar ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good application for portfolio management"
+    },
+    {
+        "author": " Jose Moreno ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great!"
+    },
+    {
+        "author": " Felipe Cifuentes ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome"
+    },
+    {
+        "author": " MrPolishboy1985 ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Keeps track of everything i have in one place. I love it"
+    },
+    {
+        "author": " Ivan Dominis ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Old alerts from ark keep making notir"
+    },
+    {
+        "author": " Neezam Zam ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  good app"
+    },
+    {
+        "author": " Adnan Mokodompit ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice"
+    },
+    {
+        "author": " Seo Sos ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  would be great if I could choose on how to set the alert sound"
+    },
+    {
+        "author": " Arun Iruthayaraj ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Exchange wise price selection is awesome!!"
+    },
+    {
+        "author": " Erik Garcia ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app to keep track of your crypto!"
+    },
+    {
+        "author": " Andre Ricardo ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": "  ",
+        "date": "9 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Best yet to come"
+    },
+    {
+        "author": " Brendon McNamara ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works great!"
+    },
+    {
+        "author": " Colin Chen ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It works"
+    },
+    {
+        "author": " Binod Pangeni ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I like the blockfolio, doesn't have to go through exchanges and market cap listing. It would be awesome if I could see more greens everytime I open it. LOL"
+    },
+    {
+        "author": " Raf Figueroa ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Pretty comprehensive tool, I used other tools, but,  keep coming back to Blockfolio."
+    },
+    {
+        "author": " tim ragsdale ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It's perfect"
+    },
+    {
+        "author": " Yu Yan Ou ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It's so convenient.  I love it so much"
+    }
+][
+    {
+        "author": " Kent N ",
+        "date": "9 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Pretty good tracker of various Alt coins. Wish it allowed you to track the same coin across various exchanges though."
+    },
+    {
+        "author": " Novri Yanto ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Make easy to manage portofolio"
+    },
+    {
+        "author": " Malcolm Ross ",
+        "date": "9 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Massive discrepancy between overall 24-hour change figure of +14.83% and all of my watched currencies being down around 5% each on average! Please correct for 5stars."
+    },
+    {
+        "author": " Mallik Kande ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great tool for tracking cryptocurrency"
+    },
+    {
+        "author": "  ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Impressive and useful snapshot, features are useful and not bloated. I use it many times a day and find it to be fast and accurate."
+    },
+    {
+        "author": " Pok Awe ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  great app"
+    },
+    {
+        "author": " Patrick K ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  A very handy app with great features."
+    },
+    {
+        "author": " Alvaro Jimenez ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great"
+    },
+    {
+        "author": "  ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  App is pretty much perfect. Would like an option to change the 24h% change to just be my all time ROI% change for each coin."
+    },
+    {
+        "author": " Eduardo Pimentel ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Better than the rest"
+    },
+    {
+        "author": "  ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Excellent app"
+    },
+    {
+        "author": " Hasan Iqbal ",
+        "date": "9 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  would like the ability to change from candle stick view to trendline view and a search box to search the news feed for coins i am interested in instead of  having to scroll through"
+    },
+    {
+        "author": " Oliver Candelario ",
+        "date": "9 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Awesome app!"
+    },
+    {
+        "author": " chris bowler ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great!"
+    },
+    {
+        "author": " Daniel Søjbjerg ",
+        "date": "9 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Would be 5 stars if I could change the alarm currency to dollars instead of Bitcoin :)"
+    },
+    {
+        "author": " Amiruddin Ismail ",
+        "date": "9 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great app to manage my cryptos"
+    },
+    {
+        "author": " Sijuade Gbadegesin ",
+        "date": "9 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Excellent app. Easy to navigate and allows selected asset tracking."
+    },
+    {
+        "author": " Henry Dang ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Mark Chapman ",
+        "date": "9 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best cryptocoin tracker I have found, very slick!"
+    },
+    {
+        "author": " Leonard Paul Rioveros ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  very nice app"
+    },
+    {
+        "author": " David Bisschoff ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Contacted them for support. 5 min later got response and problem sorted. Great app brilliant support"
+    },
+    {
+        "author": "  ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It's a very useful app for traders."
+    },
+    {
+        "author": " Robert Carter ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome!!"
+    },
+    {
+        "author": " Ani Kalinov ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  works perfect, no ads . thanks"
+    },
+    {
+        "author": " Venu Kalluru ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice"
+    },
+    {
+        "author": " Hristo Stoyanov ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very good app."
+    },
+    {
+        "author": " Armando Ahumada ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Easy to track portfolio."
+    },
+    {
+        "author": " Bob The Tech Guy ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very simple to use."
+    },
+    {
+        "author": " Brendon Chan ",
+        "date": "8 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great but wish there was less price delay"
+    },
+    {
+        "author": " Moyosore Taiwo ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Pretty good at tracking coins scattered in exchanges and wallets all over the internet. Arranges it in a beautiful user interphase"
+    },
+    {
+        "author": " Alvin Vivian ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Would be better if I can set an alert for total portfolio value. I want to know when I become a millionaire!"
+    },
+    {
+        "author": " Adam Mcdonald ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works great"
+    },
+    {
+        "author": "  ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Try to allow more user control of charts, like the tradestation app"
+    },
+    {
+        "author": "  ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Just great."
+    },
+    {
+        "author": "  ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app!"
+    },
+    {
+        "author": " aznguywu ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  up to date real time. great management"
+    },
+    {
+        "author": "  ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Would love to see widgets as well"
+    },
+    {
+        "author": " Bruce Billson ",
+        "date": "8 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Does what it needs to do"
+    },
+    {
+        "author": " Rahul Kumar ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Easy and convenient to use"
+    },
+    {
+        "author": " Sonny Balagot ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very useful, can you add dark theme? I always use it even going to sleep. So having dark theme  will be much appreciated."
+    }
+][
+    {
+        "author": " Judithya Dwimanda ",
+        "date": "8 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  This app really really good. But pleasee. Pleasee add bitcoin.co.id exchange for IDR currency :( and ill give you 6 stars"
+    },
+    {
+        "author": " John Glen ",
+        "date": "8 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Needs a refresh setting or tap to refresh data"
+    },
+    {
+        "author": " B3 ex ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good app!"
+    },
+    {
+        "author": " rusnadi tan ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  amazing apps"
+    },
+    {
+        "author": " Kamyar Kian ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Probably the best app on my phone after Google Maps."
+    },
+    {
+        "author": " César Ferreira ",
+        "date": "8 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  I love it but I'd love to be able to export and import my portfolio. When I format my phone is really boring to type everything manually again. It's a feature that should take a day to implement 😀"
+    },
+    {
+        "author": " cameron beard ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Near perfect"
+    },
+    {
+        "author": " sameer rao ",
+        "date": "8 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  It's an easy way to organize and view  the performance of your portfolio."
+    },
+    {
+        "author": " Alexandru Fortuna ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great tool"
+    },
+    {
+        "author": " chephren chua ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  very helpful with alert. cant live without."
+    },
+    {
+        "author": " Ritesh bawa ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best app to track almost all of your cryptos in almost all exchanges but it would be better if I could create more than one portfolio in this app."
+    },
+    {
+        "author": " Daniel Chizurum ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  So easy to use. Love it"
+    },
+    {
+        "author": " Jeremiah Moreau ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  The Best!! Just wished I could view my info from other devices too."
+    },
+    {
+        "author": " Edwin Moerland ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app, would be perfect if they add tokens not traded on the main exchanges such as BLX and LKK"
+    },
+    {
+        "author": " Tuan Quyen Nguyen ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Goran Gligorin ",
+        "date": "8 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Useful, but would be awesome if I could connect it to exchanges and it would pull data from there."
+    },
+    {
+        "author": " Simon hall ",
+        "date": "8 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Works fine. Does what it says on the tin."
+    },
+    {
+        "author": "  ",
+        "date": "8 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great tool for portfolio oversight!"
+    },
+    {
+        "author": " Seth Meister ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Absolutely terrific app. Perfect for both newb and experienced crypto traders. Does everything you could possibly want and a bunch of things you didn't even know you need. I can't think of a thing that should be changed. The perfect and incredibly useful app. Thank you Blockfolio!"
+    },
+    {
+        "author": " Slavomír Prkno ",
+        "date": "7 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great app! One thing missing - good widged."
+    },
+    {
+        "author": " William Jackson ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I'm really enjoying this app"
+    },
+    {
+        "author": " Anand Sagar ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Most suitable app to track you cryptocurrency data and check stats. It's pretty minimal and easy to you only one thing would make it more awesome some login system so it could save your coin data cause if once uninstalled you will need to re enter all your data again to if you want it back, so this is pretty time consuming other wise is the best app. Go for it !"
+    },
+    {
+        "author": " Robinson Crusoe ",
+        "date": "7 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  It works but poorly. The chart is only in btc not able to be in dollars and you don't have the option to start at 0 on the chart so you get no perspective."
+    },
+    {
+        "author": " Sean Ohagan ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app has all the coins I use"
+    },
+    {
+        "author": " Jean Schütt ",
+        "date": "7 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Very good App. But if i trade f.e. OMG to BTC how do I add the transaction? Can only to fiat to BTC."
+    },
+    {
+        "author": " Christina Inman ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It works"
+    },
+    {
+        "author": " Jonathan Baker ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best crypto app hands down"
+    },
+    {
+        "author": " Awesome ",
+        "date": "7 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Would be nice if you could see your total profit..."
+    },
+    {
+        "author": " Luis Garcia ",
+        "date": "7 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Very good at keeping track of your trades and what your loss/gains on based on the value of the coin during the time of the trade. Only thing it needs is the ability to change the currency from btc to others without having to creat a new pair. Also the ability to trade from one coin to another and have the coins updated respectfully."
+    },
+    {
+        "author": " John Chen ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  convenient"
+    },
+    {
+        "author": " j lo ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Frikn awsome. It just keeps growing"
+    },
+    {
+        "author": " Christopher Oddo ",
+        "date": "7 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Doesn't display correct Ethereum pricing on Gemini"
+    },
+    {
+        "author": " Raymond Blackford ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Solid app. Almost perfect."
+    },
+    {
+        "author": " Aden Mac ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Neo and Omg. To the moooooonn! Also, great app!"
+    },
+    {
+        "author": " Jongchun Kim ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app to track my holdings"
+    },
+    {
+        "author": " Jonathan Cathcart ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works fantastically to help me track my portfolio."
+    },
+    {
+        "author": " minor mention ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  no compliants"
+    },
+    {
+        "author": " gehaga ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very useful for keeping track of my portfolio's performance over multiple exchanges. And with it's comprehensive alerts system, I can do it in real time."
+    },
+    {
+        "author": " Graham M ",
+        "date": "7 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Pretty good. Add only the coins you follow, select currency to display in. My only issue is the charts always show in value vs Bitcoin but all other places use USD. I'd like it to all be one or the other (as long as I can still choose which). Would also be nice to be able to customize chart visualization further. Still a great app though. Better than pretty much every other option"
+    },
+    {
+        "author": " Kyle Dignan ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Plain & simple, Blockfolio performs consistently. The layout is easily managed and reads clearly at a glance. Thanks for the great app! There is a lot I still have yet to mess with like Price Alerts that would improve my knowledge on cryptocurrency in real-time."
+    }
+][
+    {
+        "author": " Decentralised Electric Money ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app ... happy I found it .. keep track of your whole crypto portfolio in one app .. amazing .."
+    },
+    {
+        "author": " Ryan Huong ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Does what it says on the tin"
+    },
+    {
+        "author": "  ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Afficient"
+    },
+    {
+        "author": " Thabiso Madlala ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  This app is Boss man. Simple stuff. Thank you. You are Legends."
+    },
+    {
+        "author": " Edward Aguas ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Pretty Sweet. It's easy and to the point. It can even sync to find new ico coins!"
+    },
+    {
+        "author": " Stephen To ",
+        "date": "7 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Great app but needs some improvements. Possibly add a calculator to predict what future profits would be. Also on the dashboard it would be nice to have a spot that shows how much money you are up or down in each coin"
+    },
+    {
+        "author": " Rid Hellswanted ",
+        "date": "7 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Practice and simple notifications"
+    },
+    {
+        "author": " TimboTheRandom ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Only portfolio app I've tried, honestly no need to try any others, this ones great."
+    },
+    {
+        "author": " Nat Evans ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very good, just what I needed to see"
+    },
+    {
+        "author": " jeff G ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Excellent!!"
+    },
+    {
+        "author": " waseem shaikh ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  One stop solution for all cryptocurrencies .... Great experience .."
+    },
+    {
+        "author": " zblazek2 ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Simple, Fast, useful..."
+    },
+    {
+        "author": " Ken Tran ",
+        "date": "7 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Curtis Ojembe ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice app.. Very important"
+    },
+    {
+        "author": " Garreth Shelton ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great and extremely useful"
+    },
+    {
+        "author": " Sean Hitchcock ",
+        "date": "7 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great app, but I miss the possibility to set Alerts in the ccy listed.  E.g. I have ETH listed in EUR, but when I try to set an Alert I can only do this against BTC.  Otherwise this would be a 5* rating!"
+    },
+    {
+        "author": " senthil kumar ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome 👍"
+    },
+    {
+        "author": " a j ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  If you could add more exchanges for BitcoinCash rather than just 'cex.io' which nobody uses then I would rate 5 stars"
+    },
+    {
+        "author": " Obie Goodman ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Just the info I want and nothing else."
+    },
+    {
+        "author": " Ph Ha ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  User friendly, quick access to price tracking"
+    },
+    {
+        "author": " Dimitar Minchev ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app!"
+    },
+    {
+        "author": " andrew jansz ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome"
+    },
+    {
+        "author": "  ",
+        "date": "7 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  App is good. The customer support in my case was exceptional. I mean seriously top notch."
+    },
+    {
+        "author": " jalal mehmandoost ",
+        "date": "7 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Good"
+    },
+    {
+        "author": " Tanner Miller ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Does a really good job monitoring and displaying the current rates. I haven't used any of the more in depth tools other than setting Bitcoin, but I believe it's a nice way to monitor your currencies without having to log in to your wallet(s)."
+    },
+    {
+        "author": " NIko Xenos ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great for keeping track of all your cryptos on different exchanges"
+    },
+    {
+        "author": " Heliocratic ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  This app helped me keep track all my crypto assets across exchanges."
+    },
+    {
+        "author": " Keenan Adams ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Just the right amount if features. Does everything I need it to."
+    },
+    {
+        "author": " Ghast Dagger ",
+        "date": "7 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Makes you consider suicide 24/7"
+    },
+    {
+        "author": " Shaun Rudling ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome app, works well."
+    },
+    {
+        "author": " Ross Elliott ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Does exactly what you want! Thanks!"
+    },
+    {
+        "author": " wade mulde ",
+        "date": "7 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Was working well with my Samsung S6. Transferred it over to my S8+ and I can't add any coins. Just says unable to, try again later. If this gets fixed ill give it a 5."
+    },
+    {
+        "author": " Mike Bowman ",
+        "date": "7 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app. But one thing. Can you turn on alerts so when I have my phone on silent it still makes an audible alert? Alerts do not help when I have my sounds off and I keep my sounds and vibration off 90% of the time but would like to still hear my alerts. Thanks in advance"
+    },
+    {
+        "author": " Nicolas MARTIN ",
+        "date": "7 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Nice.  I'ld like 2 features: - When I select \"1 hour\", I would like the bar width to be \"1 hour\" (like on almost every trading charts). - When I add an alert, I would like to have an horizontal line on the chart as visual cue."
+    },
+    {
+        "author": "  ",
+        "date": "7 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Nice handy app"
+    },
+    {
+        "author": " Peter K ",
+        "date": "6 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  Needs a way to sync coins and settings between multiple devices."
+    },
+    {
+        "author": " Amber Mishra ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Truly fabulastic"
+    },
+    {
+        "author": " Josip Jelić ",
+        "date": "6 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Great app. It calculates my holdings wrong tho."
+    },
+    {
+        "author": " kuria kiarie ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": "  ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Favorite app"
+    }
+][
+    {
+        "author": " Sean Longhurst ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  A must have for anyone into crypto, would like to see support for multiple portfolios in the future."
+    },
+    {
+        "author": " Beau Burki ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Gord Garwood ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Really great app! Keeps all my coins in check. Would be perfect if you could log purchased Alt coins and have the option to pull the balance from your Bitcoin tally."
+    },
+    {
+        "author": " Luis Enrique Fabian ",
+        "date": "6 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Please add a way to sync so that if you change to a new device the entries can be recovered. Other than that this is an awesome app!"
+    },
+    {
+        "author": " Bill Bronson ",
+        "date": "6 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  Thank you for the response. Profits and losses now work, however, I am still getting an error when I try and add new transactions."
+    },
+    {
+        "author": " JW Moe ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great for checking prices."
+    },
+    {
+        "author": " Glenn Robinson ",
+        "date": "6 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  This app is great for tracking your portfolio  Highly recommend"
+    },
+    {
+        "author": " Scott Aitcheson ",
+        "date": "6 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Pretty good. It is my first place I look to track my portfolio.  Alarm ranges work well and it tracks multiple exchanges."
+    },
+    {
+        "author": " Leon Chretien ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  good easy app when you use multiple wallets and exchanges"
+    },
+    {
+        "author": " Gianni Costantiello ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  It's addictive, like crack!"
+    },
+    {
+        "author": " Rocco Bria ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app"
+    },
+    {
+        "author": " Serge Brazhnikov ",
+        "date": "6 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Planning to include Liqui exchange?"
+    },
+    {
+        "author": " Dave Darch ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app. Auto update via api would be incredible. Also to be able switch from satoshis to $, £ or € at the side when viewing the charts would be v. useful."
+    },
+    {
+        "author": " Kevin Irwin ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great way to check favorite although coin values"
+    },
+    {
+        "author": "  ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Can't wait for the multiple portfolios option. Must be the most impressive app I've ever had."
+    },
+    {
+        "author": " Shane Gaudaur ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app that lets me track all my alt coins"
+    },
+    {
+        "author": " Thomas Manzo ",
+        "date": "6 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  I wish the percent change could be changed to be from last time it was updated."
+    },
+    {
+        "author": " Rodney Leach ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Exactly what I needed"
+    },
+    {
+        "author": " Jamie Nicholson ",
+        "date": "6 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Easy to use and track prices"
+    },
+    {
+        "author": "  ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app. Very secure"
+    },
+    {
+        "author": " Alex Petrov ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  lite and useful & would like to remove news reading & fetching"
+    },
+    {
+        "author": " Renato Qu ",
+        "date": "6 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Quick to learn. Solid interface"
+    },
+    {
+        "author": " Erik Babel ",
+        "date": "6 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Pretty nice,  but some things leave room for improvement.  Import/export or at least backup. Pie chart showing diversity.  Buying alt with btc should decrease btc."
+    },
+    {
+        "author": " messi Dlabro ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nothing could be more better"
+    },
+    {
+        "author": " Steve Gooding ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Way easy!"
+    },
+    {
+        "author": " Connor Feimer ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Very easy to manage altcoins and monitor changes."
+    },
+    {
+        "author": " E Mann ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome"
+    },
+    {
+        "author": " Mike John ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great way to keep track of coins you are interested. Manually inputting your investments is also easy. The best app by far to keep up with the volatile markets"
+    },
+    {
+        "author": "  ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great to track trades on the go!"
+    },
+    {
+        "author": "  ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Baguss"
+    },
+    {
+        "author": "  ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Neat and pretty easy to get used to"
+    },
+    {
+        "author": " Raidhan Kyo ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Please vip.bitcoin add in market"
+    },
+    {
+        "author": " hoang dao ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I love this app"
+    },
+    {
+        "author": " Mehrshad Mojarrad Ghahfarokhi ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Cool"
+    },
+    {
+        "author": " João Pedro Magalhães ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Awesome app. I only wish it could read my wallet and transactions from blockchain as an option to manually added transactions. Other than that. All good."
+    },
+    {
+        "author": "  ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Nice app. Love it."
+    },
+    {
+        "author": " Jasper vk ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works great ! Easy access to all coins"
+    },
+    {
+        "author": " Adekoya Aweda ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  quick view of your choice coins."
+    },
+    {
+        "author": " vivien o ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  very very useful. and accountless. love it."
+    },
+    {
+        "author": " H B ",
+        "date": "6 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  In Holdings, I cannot see how much each holding is making individually. It only shows the total, but I want separation of performance and profits."
+    }
+][
+    {
+        "author": " mitsosf ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  So many features for a free app"
+    },
+    {
+        "author": " Luke Hurst ",
+        "date": "6 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Everything in one place to track your crypto's. Realtime portfolio price updates very useful"
+    },
+    {
+        "author": " Fletch Anderson ",
+        "date": "6 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  Something wrong with the app, I cant add new coins to it and can only add 5 .. I have used this many times before and it's really annoying 😑"
+    },
+    {
+        "author": " Nick Burns ",
+        "date": "5 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  App is great but I would really like an option to my overall profit or loss as a figure and a percentage. I know you have it for each currency but an overall would be ideal Nice work ppl"
+    },
+    {
+        "author": " Carl F ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Works great and it's free. Amazing."
+    },
+    {
+        "author": " gerard menzel ",
+        "date": "5 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Pretty useful for checking stuff."
+    },
+    {
+        "author": " Julius Brooks ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great"
+    },
+    {
+        "author": " Elan Jones ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Super clean and we'll made. Everything I was looking for. Cyrpto for life!"
+    },
+    {
+        "author": " sumit singh ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Good"
+    },
+    {
+        "author": " FAT Bitcoin [#NO2X] ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  \"Syncing coins with server\" forever :-/"
+    },
+    {
+        "author": " Leslie Lai ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app😀,"
+    },
+    {
+        "author": " bhavin thakker ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app just love it, please add more exchanges like bitthumb, Korbit, coin one."
+    },
+    {
+        "author": " Aaron Williams ",
+        "date": "5 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  since an update in the past few months, I'm unable to add new coins to my watch list"
+    },
+    {
+        "author": " Wegene Terefe ",
+        "date": "5 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  The chart is suck. Almost unworkable!"
+    },
+    {
+        "author": " Pang Pern ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  This app work great for coin porfolio"
+    },
+    {
+        "author": " Sean Pennington ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  wish it would auto add/subtract the trading pair"
+    },
+    {
+        "author": " Joshua Harrison ",
+        "date": "5 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Good, graphs could be better."
+    },
+    {
+        "author": " Fabio Barbieri ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best tool for cryptos"
+    },
+    {
+        "author": " Sam Mshelia ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Amazing app. Kudos"
+    },
+    {
+        "author": " Thomas Le ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app. Awesome at a glance information. Love it"
+    },
+    {
+        "author": " Angie Henriques-Fernandes ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great to monitor coins and your holdings."
+    },
+    {
+        "author": " William Davis ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best portfolio app for cryptocurrencies ever!"
+    },
+    {
+        "author": " John Douthit ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  The only option for crypto ledger on mobile, and it's damn good"
+    },
+    {
+        "author": " Jag Johal ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Love this app, I just wish it had a widget."
+    },
+    {
+        "author": " Glauber Filipe ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Really great app"
+    },
+    {
+        "author": "  ",
+        "date": "5 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Amazing app but PLEASE PLEASE add a backup & restore option, there's just too many transactions to readd them again."
+    },
+    {
+        "author": "  ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  This app is great for keeping up to date with the crypto market. Multiple crytpo exchanges to monitor."
+    },
+    {
+        "author": " Paul Finch ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Useful"
+    },
+    {
+        "author": "  ",
+        "date": "5 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  Great app. Does exactly what I wanted. Wish it would watch coin addresses for balance."
+    },
+    {
+        "author": " Александър Мингилов ",
+        "date": "5 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app, easy to use, the best I have seen to check the market and track your portfolio. Highly recommend."
+    },
+    {
+        "author": " Eric Darling ",
+        "date": "4 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  It's a bit awkward when having to account for Bitcoin purchases of other crypto currencies, since they have to be entered manually, basically making every sell or buy have to be entered twice to account for the impact to Bitcoin."
+    },
+    {
+        "author": " John Erwin Soltes ",
+        "date": "4 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I just use it to monitor market price"
+    },
+    {
+        "author": " Michael Anuzis ",
+        "date": "4 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Excellent!"
+    },
+    {
+        "author": " Lee Seeman ",
+        "date": "4 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great for monitoring and tracking crypto currencies. Needs widgets for ticker tracking."
+    },
+    {
+        "author": " Ador Pantig ",
+        "date": "4 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great for the alerts and keeping track of your portfolio"
+    },
+    {
+        "author": " Mark Aridgides ",
+        "date": "4 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app. Super easy to use."
+    },
+    {
+        "author": " Ian Barker ",
+        "date": "4 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Simple and clean UI. Gives me exactly the info I want."
+    },
+    {
+        "author": " Ebuka Daniel ",
+        "date": "4 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  Rated it 5* till I used it for sometime and noticed I can't add more than 10 currencies to the list or add back currency pairs I deleted earlier. Please fix or tell me what I am doing wrong."
+    },
+    {
+        "author": " Dzidzu Midzu ",
+        "date": "4 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Great app for everyday use, especilay alarm sync"
+    },
+    {
+        "author": " Abhishek Jain ",
+        "date": "4 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  Best app"
+    }
+]
