@@ -95,6 +95,20 @@ class DB {
         }
     }
 
+    async insertComment(appID, idNum, comment) {
+        console.log('Inserting comment into the database.');
+        console.log('App ID:', appID, '\nAuthor:', comment.author, '\nDate:', comment.date);
+        const client = await this.connect();
+        try {
+            await client.lquery(
+                'insert into comments(app_id_num, app_id, author, date_written, json_object), values ($1,$2,$3,$4,$5)', [idNum, appID, comment.author, comment.date, comment]
+            );
+        } catch (err) {
+            console.log('Error inserting comment into the database', err);
+        } finally {
+            client.release();
+        }
+    }
 
     //     const client = await this.connect();
     //     console.log('Connected');

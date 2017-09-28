@@ -5,18 +5,20 @@ create database comments;
 
 begin;
 
-create table appID (
+create table test (
     ID           text   primary key not null,
-    id_num       serial             not null,
-    last_scraped date
+    id_num       serial      unique not null,
+    last_scraped date                       ,
+    constraint u_id_num_b unique(id_num)
 );
 
 create table comments (
-    ID             text references appID(ID) not null,
-    author         text                      not null,
-    date_written   date                      not null,
-    json_object    json                      not null,
-    primary key (ID, author, date_written)
+    app_id_num     serial references appID(id_num) not null,
+    app_id         text   references appID(ID)     not null,
+    author         text                            not null,
+    date_written   date                            not null,
+    json_object    json                            not null,
+    primary key (app_id_num, author, date_written)
 );
 
 commit;

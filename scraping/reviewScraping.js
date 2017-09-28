@@ -41,6 +41,8 @@ function logReviews(reviews) {
     fs.appendFileSync(appID + '.txt', JSON.stringify(reviews, undefined, 4));
 }
 
+
+
 async function fetchAppID() {
     const res = await db.selectAppID();
     appID = res.appID;
@@ -53,6 +55,14 @@ async function fetchAppID() {
     }
 }
 
+function insertComments(appID, idNum, comments) {
+    comments.forEach(async(comment) => {
+        if (comment.author.replace(/ /g, '').lenth == 0) {
+            comment.author = 'unknown';
+        }
+        await db.insertComment(appID, idNum, comment)
+    });
+}
 fetchAppID();
 
 function scrapeReviews() {
@@ -84,6 +94,7 @@ function scrapeReviews() {
             if (reviews.length > 0) {
                 //allReviews = allreviews.concat(reviews);
                 logReviews(reviews);
+                insertComments(appID, idNum, reviews);
                 form.pageNum += 1;
                 setTimeout(() => {
                     try {

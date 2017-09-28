@@ -241,2171 +241,484 @@
     }
 ][
     {
-        "author": " koby lazar ",
-        "date": "22 September 2017",
+        "author": "  ",
+        "date": "28 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  Very buggy and insecure"
+    },
+    {
+        "author": " Oliver ozier ",
+        "date": "28 September 2017",
         "rating": "Rated 1 stars out of five stars",
-        "comment": "  Coins lost? Cons?"
+        "comment": "  I donwload jaxx on play store and when I start app there is nothing happening. Can you explain why put a non-functional app on the store ?!?"
     },
     {
-        "author": " Erik Noronha ",
-        "date": "22 September 2017",
+        "author": "  ",
+        "date": "28 September 2017",
         "rating": "Rated 1 stars out of five stars",
-        "comment": "  Wtfk!!! My bitcoins and Litecoins was missing after the last update Wallet!!! Please whats going on???... Really??? Onse more update and nothing of my bitcoins... WTFK!!!?"
+        "comment": "  12 percent charge. Per transaction.    Piss off."
     },
     {
-        "author": " Fahim Iqbal ",
-        "date": "22 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  After new update i couldn't open my account. Please solve my issue."
-    },
-    {
-        "author": " John Limones ",
-        "date": "22 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Still can't open it! My Bitcoin is hostage!"
-    },
-    {
-        "author": " Andrew Ahern ",
-        "date": "22 September 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Works but really needs ripple support. The to-do list should be nearly identical to the coin market cap list."
-    },
-    {
-        "author": " Hendrik Ludwig ",
-        "date": "22 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  unable to sweep paper wallet"
-    },
-    {
-        "author": " James Robison ",
-        "date": "22 September 2017",
+        "author": " Daniel Barajas ",
+        "date": "28 September 2017",
         "rating": "Rated 3 stars out of five stars",
-        "comment": "  I would like to exchange btc to the new tokens featured but the high prices put me off."
+        "comment": "  UPDATE: After reinstalling a few times (make sure you have your backup codes), my bitcoins are back so it seems to be working now, my bitcoin wallet just loads slowly. If the app proves to be reliable again in the next few months, I'll raise my rating to 5 stars  1 star. I used this app for bitcoin and litecoin in the past and it used to work well. After the most recent update, my bitcoin wallet is frozen on \"initializing wallet\" so I can't access any of my funds. However, if I disable my bitcoin wallet, my litecoins are accessible. I'll update my review if this problem is fixed and my bitcoins restored, otherwise, don't download this."
     },
     {
-        "author": " Adnan Mokodompit ",
-        "date": "22 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  It's ok. Not that good"
-    },
-    {
-        "author": " Béla György ",
-        "date": "22 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Great app, good concept, but far too much updates, and a lot of alts. Why don't separate in 2 apps? Main coins and alt coins."
-    },
-    {
-        "author": " Robert Pfeilmayer ",
-        "date": "22 September 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Top criptocurrency wallet; Maybe the best one. Monero would be nice as an update !"
-    },
-    {
-        "author": "  ",
-        "date": "22 September 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Best wallet ever ! Please add support for XMR !"
-    },
-    {
-        "author": " Anthony Mohr ",
-        "date": "21 September 2017",
+        "author": " Tolga Medeni ",
+        "date": "28 September 2017",
         "rating": "Rated 2 stars out of five stars",
-        "comment": "  So far okay"
+        "comment": "  after update I can not reach my eth account via my phone"
     },
     {
-        "author": " Mark Alexander ",
-        "date": "21 September 2017",
+        "author": " Juan Velasquez ",
+        "date": "27 September 2017",
         "rating": "Rated 1 stars out of five stars",
-        "comment": "  The app is broken -- literally just a splash screen."
+        "comment": "  After latest update, my ether is missing, this seems to be a trend, this is the second time something like this has happened"
     },
     {
-        "author": " Ionut Prundeanu ",
-        "date": "21 September 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  The app is not launching after update, please fix it!!!"
-    },
-    {
-        "author": " Jason Forté ",
-        "date": "20 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  BCH support still nowhere to be seen"
-    },
-    {
-        "author": " Shane Griffin ",
-        "date": "20 September 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Untill Jaxx adds a feature to encrypt private keys I can't recommend this wallet. Design is good and supports good amount of altcoin. Will update review if encryption is ever added."
-    },
-    {
-        "author": " Bennie Hayes ",
-        "date": "20 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  App freezes when loading. Moreover, unable to actually retrieve current balance after successfully pairing Wallet.  Have funds in Jaxx. Have No way of Moving them now."
-    },
-    {
-        "author": " Stephen Cropp ",
-        "date": "20 September 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Really useful for me across Android, Linux, Windows, and Chrome. Would like to see BCH added & XMR reconsidered, but till then I have to keep Coinomi on Android as well."
-    },
-    {
-        "author": " Martin Coleman ",
-        "date": "20 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Nearly 2 months have passed, still no BCH, and no communication from Jaxx when bch will be available. Disappointing.... No comms, no eta, nada, nothing, no response to support emails... Disappointing.... I can see my BTC but no BCH... When will you have BCH please?"
-    },
-    {
-        "author": " Son Goku ",
-        "date": "20 September 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Great app, would be better if it had monero wallet as well and Bulgarian lev currency"
-    },
-    {
-        "author": " Raymond Cea ",
-        "date": "19 September 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  its a great apps, can u pls add xrp and lisk coin? thank you"
-    },
-    {
-        "author": " Xander Deseyn ",
-        "date": "18 September 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Zero security. Very dangerous."
-    },
-    {
-        "author": " Tron Stackington ",
-        "date": "17 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  App does not work. Tried sending Litecoins from CoinBase and it locked up.Beware!! Coins will be held hostage"
-    },
-    {
-        "author": "  ",
-        "date": "17 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Coins have gone \"missing\" arter new update 1.2.36. Don't trust this app anymore, No support, no responsibility = no trust! Now they've added loads of scam tokens and proper crypto go \"missing\"!"
-    },
-    {
-        "author": " adrian valencia ",
-        "date": "17 September 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  New update does not allow to send any currency! Please fix!!"
-    },
-    {
-        "author": " Mindaugas Stoskus ",
-        "date": "16 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Absolute scam!!! Avoid at all costs!!! Wallet address keeps changing to random ones, which are not mine!! Lost a lot of money!! Im reporting this to google"
-    },
-    {
-        "author": " yusuf Misbah ",
-        "date": "15 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Terrible I have contacted them about not being able to send iconomi out of my wallet and they never replied"
-    },
-    {
-        "author": " Dhivagar Dharmarajan ",
-        "date": "15 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  First please update the app for faster loading Worst very very slowest app"
-    },
-    {
-        "author": " KAY KUO ",
-        "date": "15 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  My Doge coins stuck in the wallet more than 2 month, can't withdraw, can't trade, can't do anything..."
-    },
-    {
-        "author": " Tatz Tangia ",
-        "date": "15 September 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  I am just New to this app."
-    },
-    {
-        "author": " Lukasz Bialecki ",
-        "date": "14 September 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Love the app. I use it on android and Chrome. Never had problems with it. Bitcoin cash would be nice but I'm rating it for what it is. And it's not bitcoin cash wallet."
-    },
-    {
-        "author": " sunil singh ",
-        "date": "14 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  pretty sure this app a scam, lost a lot of money. very poor with no support."
-    },
-    {
-        "author": " Prakash Parmar ",
-        "date": "14 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  The developer of jaxx wallet are really poor they can't solve the issue of ETC transaction.. guys don't download this app if you want to safe your money... worst wallet ever"
-    },
-    {
-        "author": " Henry Austin ",
-        "date": "14 September 2017",
+        "author": " Adam Paul Mcnulty ",
+        "date": "27 September 2017",
         "rating": "Rated 3 stars out of five stars",
-        "comment": "  Agree with other posters...lots of garbage coins supported but not those currently being mined like library, music coin, feathercoin and others.... not sure who decides what to add but poor choices have been made.  App team locked me out of bitcoin during the recent hard fork.  Devs should not be able to restrict use of app, will not use in future!  Still searching for a worthy, multicoin wallet for android that supports relevant coins and cannot be disabled by devs."
+        "comment": "  Tenx removed with my coins back again we will see if I can cash out"
+    },
+    {
+        "author": " Firas Essam ",
+        "date": "27 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  After the latest update  eth wallet keep saying receiving invalid address."
+    },
+    {
+        "author": " Vincent Virovac ",
+        "date": "27 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  There's no accept button for terms of service and I can't access my money right now. Please fix it asap there's no accept button anywhere and I've read the agreement."
     },
     {
         "author": "  ",
-        "date": "14 September 2017",
+        "date": "27 September 2017",
         "rating": "Rated 1 stars out of five stars",
-        "comment": "  A real joke!!!  Its been 6 weeks and still no bitcoin cash yet....lets hope they figure it out before the next fork!!! Also tried to get some civic coins with shapeshift service and my 200$ has been missing now for over a week!!!!   Before u Download this app....burn all you're money!!! Cuz this app will do it for you!"
+        "comment": "  Poor service. Couldn't open. Android 5.1 New update on 27/09/2017 Still can't open. Frezee on jaxx logo. Horrible."
     },
     {
-        "author": " Hasim Uddin ",
-        "date": "13 September 2017",
+        "author": " Alexia Laurent ",
+        "date": "27 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  I had 200dollars and after update is gone"
+    },
+    {
+        "author": " Yang Yin ",
+        "date": "27 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Heard about it on FTL, very disappointed. Still doesn't work. Stuck on jaxx logo."
+    },
+    {
+        "author": " Phillip Hertzog ",
+        "date": "27 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  PAY (TenX) wallet not listed after update?"
+    },
+    {
+        "author": " Ajarn Mario ",
+        "date": "27 September 2017",
         "rating": "Rated 2 stars out of five stars",
-        "comment": "  I will lost my account as i format my phone as i reason and here in not any meant to backup through mobile number or email itz just allow the backup phases....... So bad. We are here using cell phone not a laptop or disktop so try to upgrade to back up through cell phone number....."
+        "comment": "  TenX/Pay wallet has disappeared on the Sept. 27 2017 update. Funds were stored there.   No private keys given for many of the currencies available in the Jaxx wallet. Why not!?"
     },
     {
-        "author": " K'oS The King ",
-        "date": "12 September 2017",
+        "author": " Byamungu Kabiraba ",
+        "date": "27 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  I can't see my TenX coins. Tell me that I didn't just lose all my tenX coins?"
+    },
+    {
+        "author": " Ahmed Chishti ",
+        "date": "27 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  good interface. plenty of options. but after recent update my last buy went missing. and this is unacceptable.  waiting for the customer service to reply with a good solution."
+    },
+    {
+        "author": " Aaron Wiebe ",
+        "date": "27 September 2017",
         "rating": "Rated 4 stars out of five stars",
-        "comment": "  Great app for storing crypto. Only problem is the devs keep adding shitcoins when there are other coins that should be supported like Ripple, Monero and Bitcoin Cash"
+        "comment": "  The new update makes some nice ui and performance improvements."
     },
     {
-        "author": " Hadi Gm ",
-        "date": "12 September 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Hi this app support ERC-20???"
+        "author": " djay aguilar ",
+        "date": "27 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I just got an immediate assistance to my tenx wallet issue.. hoping to fix this soon guys! Good job!"
     },
     {
-        "author": " Alexander Romulewicz ",
-        "date": "12 September 2017",
+        "author": " Johnny Dugdale ",
+        "date": "27 September 2017",
         "rating": "Rated 1 stars out of five stars",
-        "comment": "  Complete garbage. Can't shapeshift or pretty much do anything for that matter"
+        "comment": "  The latest version freezes on the opening screen on my older devices"
     },
     {
-        "author": " V_K ",
-        "date": "12 September 2017",
+        "author": "  ",
+        "date": "27 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  After this update,all it brings is receiving address is invalid. Please check it up"
+    },
+    {
+        "author": " Jojo Moralla ",
+        "date": "26 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  i cant open the app..i update it..but it cant pass the orange logo.."
+    },
+    {
+        "author": " Farid Eljufri ",
+        "date": "26 September 2017",
         "rating": "Rated 1 stars out of five stars",
-        "comment": "  it sucks"
+        "comment": "  Hello why my tenx wallet gone?why all my token show 0 amount?"
+    },
+    {
+        "author": " Mark One ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  PAY just disappeared"
+    },
+    {
+        "author": " Jeff C ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Won't open after last 3 updates!?!?"
+    },
+    {
+        "author": " Filipe Goncalves ",
+        "date": "26 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  I downloaded the app on 9/25/17 and couldn't get past the opening orange screen. I have since gotten the update that came out today 9/26/17 and the peoblem still exists.   I will gladly upgrade my review if the problem is fixed."
+    },
+    {
+        "author": " Andrei Neagu ",
+        "date": "26 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  Where is tenx support?"
+    },
+    {
+        "author": " eka nurochman ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I think all negative comments just spamming. Last update is excellent, faster than before. But still no monero?"
+    },
+    {
+        "author": " Thomas Houiellebecq ",
+        "date": "26 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Where has the support for TenX PAY gone?"
+    },
+    {
+        "author": " K Hunt ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  No segwit BIP141 support! Sorry segwit is supported in bitcoin core, a wallet must support this."
+    },
+    {
+        "author": " raj rajdeep ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Payments doesn't show . Am disappointed. And every time there is update for no use"
+    },
+    {
+        "author": " craig beer ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  It's a scam not helpful at all they make it very hard to get your coins once app fails useless they should be looked at by the authorities cause I'm pretty sure my address and private keys have changed ??????"
+    },
+    {
+        "author": " Sergey Korsakov ",
+        "date": "25 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  Simply don't work after last Update. Thanks guys finally I found coinomi wallet 8)"
+    },
+    {
+        "author": " toffy concepcion ",
+        "date": "25 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  It was wonderful until the update. My COINS ARE GONE! Now the screen freezes and the app doesn't launch on my samsung core. DON'T UPDATE! Use the COINPAYMENTS wallet instead until they revert to the last version before the current one. It got fixed... and then I updated... now it's frozen again."
+    },
+    {
+        "author": " Joel Santtus ",
+        "date": "25 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  App não abre. Congelado na tela de iniciação. Parado na tela laranja"
+    },
+    {
+        "author": " Hamzs Haty ",
+        "date": "25 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Was working fine and now I cant get past the orange screen! I dont know what to do. No mention of any issues on twitter.  So annoying.  Where are my coins?!!!! I may have to create a twitter account just to tweet them. In the meantime if anyone else has issues and has a twitter - please make it known that the app is just frozen! Thanks"
+    },
+    {
+        "author": " sneha pilley ",
+        "date": "25 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Now its 1&half week gone but my problem i. e. Orange  splash screen not yet solved please help buddy"
+    },
+    {
+        "author": " Drew Acton ",
+        "date": "24 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  It's a scam. Payments never show up, they aren't responsible for that they say. Go to Blockchain if you're mining it works beautifully. This is just a group of thieves."
+    },
+    {
+        "author": " Thom Greene ",
+        "date": "24 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  App doesn't open in Android after latest update. Is my Ether gone? Massive fail!!"
+    },
+    {
+        "author": " piyush patel ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  When you add Bitcoin Cash (BCH)? Its been a long waiting to get it."
+    },
+    {
+        "author": " Ariel Gabizon ",
+        "date": "23 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  Very buggy lately. Gets stuck on opening screen.  Also chrome extension having problems"
     }
 ][
     {
-        "author": " andrea caretz ",
-        "date": "12 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Stay clear from this i lost 1 eth because of an error shapeshifting into ltc. Has been 2 days no reply from customer care. Shapeshift forward my ticket since there was an error on their hand. Still dead in the water. They don't care"
-    },
-    {
-        "author": " Toufiqur Rahaman ",
-        "date": "12 September 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Excellent interface. Easy to use. Supports a lot of currencies. But they should add support for all of the top 20 currencies."
-    },
-    {
-        "author": " maximilian funke ",
-        "date": "11 September 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Very good hot wallet for trading and using several major cryptocurrencies. Some times pairs I try to trade are unavailable and it would be better if the interface made it more clear that a certain asset is unavailable at the moment, but hey its free and reasonably private,  it's great!"
-    },
-    {
-        "author": " Aj Verma ",
-        "date": "11 September 2017",
+        "author": "  ",
+        "date": "28 September 2017",
         "rating": "Rated 2 stars out of five stars",
-        "comment": "  Not able to shift qtum to qtum or any other coin . After some coin back to qtum wallet."
+        "comment": "  Very buggy and insecure"
     },
     {
-        "author": " Nathan Ribble ",
-        "date": "11 September 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  I'm not sure what whent wrong! Whatever it is I can no longer use shape-shifting to move alt-coins into other coins and back. I e en tryed this on on another phone and it doesn't work. Idk if it's what I'm doing or the app. I looked at the faqs and followed how to use shape-shifting. Results were the same. I have a video of my phone screen explaining what I'm doing. Help!! I need a developer!!"
-    },
-    {
-        "author": " PC ",
-        "date": "10 September 2017",
+        "author": " Oliver ozier ",
+        "date": "28 September 2017",
         "rating": "Rated 1 stars out of five stars",
-        "comment": "  Horrible. Bitcoin had been stuck in Jaxx for 3 months and they are unwilling to do anything about it. Shows the Bitcoin in the wallet but says $0 is spendable"
-    },
-    {
-        "author": " Gourab Debnath ",
-        "date": "10 September 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Need Bitcoin Cash wallet"
-    },
-    {
-        "author": " Engin Vatansever ",
-        "date": "10 September 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Idk why people hating, but this app is amazing I would love to see ripple in this app"
-    },
-    {
-        "author": " Wandblue ",
-        "date": "9 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Add wallet support for Ripple, Monero, and Dogecoin please as there is no firm wallet in market to store it thanx Also fix splash screen as we open takes too much time to go to the wallets"
-    },
-    {
-        "author": " Jun Huy Lam ",
-        "date": "8 September 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  get your priority right, enable BCH asap before all the other alts.."
-    },
-    {
-        "author": " Johannes Schlechter ",
-        "date": "8 September 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Stop adding all these other alt coin and get bitcoin cash sorted out! Your priority are way off!."
-    },
-    {
-        "author": " Francois Vanasse ",
-        "date": "8 September 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Not sure what all the bad reviews are about.  Been using it for about a month, did around 15 transactions including Shapeshift and so far no problems at all.  Works like a charm."
-    },
-    {
-        "author": " Octavian Aachen ",
-        "date": "8 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Cannot back-up the desktop wallet"
-    },
-    {
-        "author": " anton saputro ",
-        "date": "7 September 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  6 digit pin or more would be a lot secure than currently applied 4 digit pin  Why balance in fiat aren't updated? Were is bch support?"
-    },
-    {
-        "author": " Prince Dare Kasali ",
-        "date": "7 September 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  One of the best offline wallet out there havent had no issues"
-    },
-    {
-        "author": " Md Robin ",
-        "date": "7 September 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  please add online wallet....."
-    },
-    {
-        "author": " Kyrux ",
-        "date": "7 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Scam app. You can deposit but NEVER use it to send away, once deposited, you cant send it. I contacted them, they replied once then stopped. I updated app, reinstalled, restored my wallet yet its not possible to send my BTC to anyone nor can I exchange it. Simply put, don't use them! For a week now yet same, not working and developer is retard as he ignores me. App takes 10sec to load, while he said its fastest and lightest wallet. Also its inefficient to use it, I suggest to use another multi wallet like Coinomi. Avoid FreeWallet too, read reviews, and thank me later.  Avoid Jaxx too, simply put, scam. Still not working as of now, will update review when it starts working. Developer still ignores my mails and doesn't reply.  Update: 07 Sep it works, and cheapest transaction fee is 1.3$ while Blockchain Wallet charges at same time 0.1$, this is ridiculous, SegWit enabled too now, why not cheap? Fk this sht im out, i will not move away from Blockchain ever again."
-    },
-    {
-        "author": " Pedro Martinez ",
-        "date": "7 September 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  For me, It just work flawless."
-    },
-    {
-        "author": " Alemi Alone ",
-        "date": "7 September 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Promises to support  bitcoin cash with no follow through yet I've seen updates adding other coins. Other instructions to get bitcoin cash with your private key could help."
-    },
-    {
-        "author": " hilmi amir ",
-        "date": "7 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  WHERE ARE MY BITCOIN??!!!! TRANSFER COMPLETE BUT NOT UPDATED IN JAXX SYSTEM!!"
-    },
-    {
-        "author": " William Martin ",
-        "date": "6 September 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Where is Bitcoin Cash?"
+        "comment": "  I donwload jaxx on play store and when I start app there is nothing happening. Can you explain why put a non-functional app on the store ?!?"
     },
     {
         "author": "  ",
-        "date": "6 September 2017",
+        "date": "28 September 2017",
         "rating": "Rated 1 stars out of five stars",
-        "comment": "  Lost my money by sending ETC to ETH. Tried to recover it using their site support instruction. Did not recover any of it."
+        "comment": "  12 percent charge. Per transaction.    Piss off."
     },
     {
-        "author": " Matt Swanston ",
-        "date": "6 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Bitcoin Cash really should have been implemented by now."
+        "author": " Daniel Barajas ",
+        "date": "28 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  UPDATE: After reinstalling a few times (make sure you have your backup codes), my bitcoins are back so it seems to be working now, my bitcoin wallet just loads slowly. If the app proves to be reliable again in the next few months, I'll raise my rating to 5 stars  1 star. I used this app for bitcoin and litecoin in the past and it used to work well. After the most recent update, my bitcoin wallet is frozen on \"initializing wallet\" so I can't access any of my funds. However, if I disable my bitcoin wallet, my litecoins are accessible. I'll update my review if this problem is fixed and my bitcoins restored, otherwise, don't download this."
     },
     {
-        "author": " Nikita nixon ",
-        "date": "6 September 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Please add XMR support"
-    },
-    {
-        "author": " Hans Meier ",
-        "date": "6 September 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Should be rated much higher. Great app works perfect on all devices and gets the job done. Segwit support would be nice for lower fees."
-    },
-    {
-        "author": " Navin Anand Ramamoorthi ",
-        "date": "5 September 2017",
+        "author": " Tolga Medeni ",
+        "date": "28 September 2017",
         "rating": "Rated 2 stars out of five stars",
-        "comment": "  The promised BCC support has yet to arrive. Still waiting."
+        "comment": "  after update I can not reach my eth account via my phone"
     },
     {
-        "author": " Sean Kathrein ",
-        "date": "4 September 2017",
+        "author": " Juan Velasquez ",
+        "date": "27 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  After latest update, my ether is missing, this seems to be a trend, this is the second time something like this has happened"
+    },
+    {
+        "author": " Adam Paul Mcnulty ",
+        "date": "27 September 2017",
         "rating": "Rated 3 stars out of five stars",
-        "comment": "  Needs a better security service. Like fingerprint for each transaction and also be able to add other fingerprints for multiple people on one account"
+        "comment": "  Tenx removed with my coins back again we will see if I can cash out"
     },
     {
-        "author": " johnny ",
-        "date": "3 September 2017",
+        "author": " Firas Essam ",
+        "date": "27 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  After the latest update  eth wallet keep saying receiving invalid address."
+    },
+    {
+        "author": " Vincent Virovac ",
+        "date": "27 September 2017",
         "rating": "Rated 5 stars out of five stars",
-        "comment": "  Great wallet! Been using it for a very long time and never had major issues.  Thanks for the great app!"
-    },
-    {
-        "author": " Alex Armstrong ",
-        "date": "2 September 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Works great but... Security is weak, no support for 2fac or strong passwords, only a 4 digit pin which only locks payments and not the app itself. Make sure you transfer everything out to somewhere safe when you're done."
+        "comment": "  There's no accept button for terms of service and I can't access my money right now. Please fix it asap there's no accept button anywhere and I've read the agreement."
     },
     {
         "author": "  ",
-        "date": "1 September 2017",
+        "date": "27 September 2017",
         "rating": "Rated 1 stars out of five stars",
-        "comment": "  Jaxx is quite a buggy wallet overall and not very reliable. Won't let me send any of my ETC! Apparently, of you make a lot of transactions Jaxx will flag your wallet as a miners wallet and not let you send out some of your currencies. Shapeshift integration is also buggy, I've had several currency conversions that got stuck, my funds were sent but I didn't receive any of the destination currency. Quite disappointed with the entire experience, Jaxx has a long way to go as its too buggy at the moment to be relied on for your hard earned money. For these reasons I DO NOT recommend Jaxx wallet!!!!"
+        "comment": "  Poor service. Couldn't open. Android 5.1 New update on 27/09/2017 Still can't open. Frezee on jaxx logo. Horrible."
     },
     {
-        "author": " Yolande Botha ",
-        "date": "1 September 2017",
+        "author": " Alexia Laurent ",
+        "date": "27 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  I had 200dollars and after update is gone"
+    },
+    {
+        "author": " Yang Yin ",
+        "date": "27 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Heard about it on FTL, very disappointed. Still doesn't work. Stuck on jaxx logo."
+    },
+    {
+        "author": " Phillip Hertzog ",
+        "date": "27 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  PAY (TenX) wallet not listed after update?"
+    },
+    {
+        "author": " Ajarn Mario ",
+        "date": "27 September 2017",
         "rating": "Rated 2 stars out of five stars",
-        "comment": "  Value of 1 Eth can be right??? Why is less than 50% of what other sites are saying? Please fix this? I love this app. But now ut seem that my Eth held there is less than 50% of its actual worth."
+        "comment": "  TenX/Pay wallet has disappeared on the Sept. 27 2017 update. Funds were stored there.   No private keys given for many of the currencies available in the Jaxx wallet. Why not!?"
+    },
+    {
+        "author": " Byamungu Kabiraba ",
+        "date": "27 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  I can't see my TenX coins. Tell me that I didn't just lose all my tenX coins?"
+    },
+    {
+        "author": " Ahmed Chishti ",
+        "date": "27 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  good interface. plenty of options. but after recent update my last buy went missing. and this is unacceptable.  waiting for the customer service to reply with a good solution."
+    },
+    {
+        "author": " Aaron Wiebe ",
+        "date": "27 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  The new update makes some nice ui and performance improvements."
+    },
+    {
+        "author": " djay aguilar ",
+        "date": "27 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I just got an immediate assistance to my tenx wallet issue.. hoping to fix this soon guys! Good job!"
+    },
+    {
+        "author": " Johnny Dugdale ",
+        "date": "27 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  The latest version freezes on the opening screen on my older devices"
     },
     {
         "author": "  ",
-        "date": "1 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Over charge every transaction. Regret putting my coins in Jaxx."
-    },
-    {
-        "author": " Josue Berrios ",
-        "date": "1 September 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  I just transfer my CVC to ETC and it seems it disappear, never got my ETC and CVC are now in $0 and when I go to my ETH wallet it reflects the transaction fee but never received the coins.  Be careful, with this you can loose your money in an isntant."
-    },
-    {
-        "author": " Travis ",
-        "date": "1 September 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  You will overpay in fees on every transaction using this app. In Coinomi you get to set the fees and I can send litecoin for less than a penny! With Jaxx it costs over 20 cents. This app gives all of cryptocurrency a bad name because people will believe it's expensive to use,"
-    },
-    {
-        "author": " Ronak Das ",
-        "date": "31 August 2017",
+        "date": "27 September 2017",
         "rating": "Rated 2 stars out of five stars",
-        "comment": "  They deducted 45 dollars just to shapeshift ....sad😑"
+        "comment": "  After this update,all it brings is receiving address is invalid. Please check it up"
     },
     {
-        "author": " Nigel John ",
-        "date": "31 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Awsome app, now if we can add the top 20 Cryptos there wouldn't be any other wallet that would come close to it."
+        "author": " Jojo Moralla ",
+        "date": "26 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  i cant open the app..i update it..but it cant pass the orange logo.."
     },
     {
-        "author": "  ",
-        "date": "31 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Nice"
+        "author": " Farid Eljufri ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Hello why my tenx wallet gone?why all my token show 0 amount?"
     },
     {
-        "author": " Ryan Domenico ",
-        "date": "31 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Awesome wallet they fixed it fast to.  You can swap cryptos without selling them to which is great"
+        "author": " Mark One ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  PAY just disappeared"
     },
     {
-        "author": " Matthew King ",
-        "date": "31 August 2017",
+        "author": " Jeff C ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Won't open after last 3 updates!?!?"
+    },
+    {
+        "author": " Filipe Goncalves ",
+        "date": "26 September 2017",
         "rating": "Rated 2 stars out of five stars",
-        "comment": "  No support for bitcoin cash sadly had to move to a better wallet thanks for all the work you have been doing and hopefully you guys will catch up"
+        "comment": "  I downloaded the app on 9/25/17 and couldn't get past the opening orange screen. I have since gotten the update that came out today 9/26/17 and the peoblem still exists.   I will gladly upgrade my review if the problem is fixed."
     },
     {
-        "author": " richard hardey ",
-        "date": "30 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Good app but recently my doge wallet doesnt work and i cant see any of my coins... Please assist..."
-    }
-][
-    {
-        "author": " Mark McCann ",
-        "date": "30 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Simple, robust app. Sometimes slow if you have it sync'd with another device. Would like a widget to see my balance on my home screen, but it's great without it."
-    },
-    {
-        "author": " Stephen Atherton ",
-        "date": "30 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Awesomeness.. Please add UNO to the wallet too"
-    },
-    {
-        "author": " Angelo Akde ",
-        "date": "30 August 2017",
+        "author": " Andrei Neagu ",
+        "date": "26 September 2017",
         "rating": "Rated 2 stars out of five stars",
-        "comment": "  I tried 3 different amounts to shape shift from ETH to ETC and I'm still waiting 17 hours now"
+        "comment": "  Where is tenx support?"
     },
     {
-        "author": " Nikhar Ramchunder ",
-        "date": "30 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Would be nice if you could add a wallet overview page showing a summary of all wallet amounts and maybe a total. Oh and Bitcoin Cash support needed ASAP!"
-    },
-    {
-        "author": " Joshua Pelletier ",
-        "date": "30 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Pretty slow, would be nice to see more coins please, (tenx, neo, etc)"
-    },
-    {
-        "author": " Amjad Yaseen ",
-        "date": "30 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  There strange behavior for zcash wallet, initialize not working for existence wallet, but for new wallet it's fine"
-    },
-    {
-        "author": " mike Baker ",
-        "date": "30 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Latest update is not showing coin balance, just USD balance. I.e: zec 0.0000000 USD: $1000. This needs to be fixed asap!"
-    },
-    {
-        "author": " X. LI ",
-        "date": "30 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  It's getting better. Hope it goes open source"
-    },
-    {
-        "author": " Jean-Paul St-Martin ",
-        "date": "30 August 2017",
+        "author": " eka nurochman ",
+        "date": "26 September 2017",
         "rating": "Rated 5 stars out of five stars",
-        "comment": "  Excellent"
+        "comment": "  I think all negative comments just spamming. Last update is excellent, faster than before. But still no monero?"
     },
     {
-        "author": " Joseph Barnett ",
-        "date": "30 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  A perfect way to track and trade crypto on the go!"
+        "author": " Thomas Houiellebecq ",
+        "date": "26 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Where has the support for TenX PAY gone?"
     },
     {
-        "author": " vishal agrawal ",
-        "date": "30 August 2017",
+        "author": " K Hunt ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  No segwit BIP141 support! Sorry segwit is supported in bitcoin core, a wallet must support this."
+    },
+    {
+        "author": " raj rajdeep ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Payments doesn't show . Am disappointed. And every time there is update for no use"
+    },
+    {
+        "author": " craig beer ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  It's a scam not helpful at all they make it very hard to get your coins once app fails useless they should be looked at by the authorities cause I'm pretty sure my address and private keys have changed ??????"
+    },
+    {
+        "author": " Sergey Korsakov ",
+        "date": "25 September 2017",
         "rating": "Rated 2 stars out of five stars",
-        "comment": "  This app contains stox wallet but any currency to stox option is not available. U cud have more of popular currencies like ripple, iota, monero etc. I like the UI bt app seems to be slow, u should work upon the speed of it."
+        "comment": "  Simply don't work after last Update. Thanks guys finally I found coinomi wallet 8)"
     },
     {
-        "author": " S D ",
-        "date": "29 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Of course, you'll add all the alts in the world but BCH"
-    },
-    {
-        "author": " werdwerdus ",
-        "date": "29 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  works a lot better than before. please add Bitcoin Cash ASAP"
-    },
-    {
-        "author": " backcompatible ",
-        "date": "29 August 2017",
+        "author": " toffy concepcion ",
+        "date": "25 September 2017",
         "rating": "Rated 1 stars out of five stars",
-        "comment": "  0 balance and obscure blank support email. Waiting for hoomans to be accountable..."
+        "comment": "  It was wonderful until the update. My COINS ARE GONE! Now the screen freezes and the app doesn't launch on my samsung core. DON'T UPDATE! Use the COINPAYMENTS wallet instead until they revert to the last version before the current one. It got fixed... and then I updated... now it's frozen again."
     },
     {
-        "author": " Nicholas Lamers ",
-        "date": "29 August 2017",
+        "author": " Joel Santtus ",
+        "date": "25 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  App não abre. Congelado na tela de iniciação. Parado na tela laranja"
+    },
+    {
+        "author": " Hamzs Haty ",
+        "date": "25 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Was working fine and now I cant get past the orange screen! I dont know what to do. No mention of any issues on twitter.  So annoying.  Where are my coins?!!!! I may have to create a twitter account just to tweet them. In the meantime if anyone else has issues and has a twitter - please make it known that the app is just frozen! Thanks"
+    },
+    {
+        "author": " sneha pilley ",
+        "date": "25 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Now its 1&half week gone but my problem i. e. Orange  splash screen not yet solved please help buddy"
+    },
+    {
+        "author": " Drew Acton ",
+        "date": "24 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  It's a scam. Payments never show up, they aren't responsible for that they say. Go to Blockchain if you're mining it works beautifully. This is just a group of thieves."
+    },
+    {
+        "author": " Thom Greene ",
+        "date": "24 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  App doesn't open in Android after latest update. Is my Ether gone? Massive fail!!"
+    },
+    {
+        "author": " piyush patel ",
+        "date": "24 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  When you add Bitcoin Cash (BCH)? Its been a long waiting to get it."
+    },
+    {
+        "author": " Ariel Gabizon ",
+        "date": "23 September 2017",
         "rating": "Rated 2 stars out of five stars",
-        "comment": "  Nice interface, but very slow. And the mining fees are absolutely ridiculous. I understand miners need to make money, but if they can afford 4-5,000 dollar computers (more than 1), I don't think they need 80% of our BTC transaction. Absolutely ridiculous and criminal."
-    },
-    {
-        "author": " Ivo Hop ",
-        "date": "29 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Not too bad. However, I would still like some extra security like 2FA. Also, after latest update, it's not displaying LTC balance correctly, but it is calculating the correct value. Also, it would really rock of they'd support some more crypto, such as XRP."
-    },
-    {
-        "author": " Cesare Borgia ",
-        "date": "29 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  A guy just posted how he had 400k hacked from this account on jax."
-    },
-    {
-        "author": "  ",
-        "date": "29 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Shift from Btc to Ltc doesnot took place even after 24 hrs. Neither theygive any confirmation code/msg"
-    },
-    {
-        "author": "  ",
-        "date": "29 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Overall pretty good, although the shape shift fees are kinda high"
-    },
-    {
-        "author": " Fryan Manullang ",
-        "date": "28 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Great app, but pls stop adding scam coin, I will give 5*"
-    },
-    {
-        "author": " chuck sirron ",
-        "date": "28 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  So I haven't been able to withdraw my Golem coins for months. Says everything you need to know about whether or not this ream cares for users that they let them deposit coins but not withdraw them. Amateurs. Avoid"
-    },
-    {
-        "author": " simon may ",
-        "date": "28 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  needs monero XMR support"
-    },
-    {
-        "author": " Leonardo Onieva ",
-        "date": "26 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Too slow in my BQ M5"
-    },
-    {
-        "author": " boo Jay ",
-        "date": "25 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  New to Blockchain and BTC, lost my wallet thanks to Android update, no way to recover. Thankfully it wasn't much, but gives me zero confidence in this platform."
-    },
-    {
-        "author": " damoon azarpazhooh ",
-        "date": "25 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Love the interface . To me ,  it is the best wallet I have installed on my phone, and I love the shapeshift integration , it makes exchanging and holding crypto currency much more intuitive"
-    },
-    {
-        "author": " Rob Amundson ",
-        "date": "25 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Good multocoin app. *Needs Overall/Summary page, no way to see all wallets on a single pane. *Needs to present coin price, not just total value of coins in wallet - need calc to figure it out. *Needs to figure out transaction history for erc-20 tokens, unacceptable that their is no record to go back to after shapeshift (civic). Checkout coinomi, no pairing with other devices like this wallet.  Really lije jaxx, too - I use many, many wallets and hoping jaxx grows into the multicoin, pairable, and impenetrable wallet it wants to be."
-    },
-    {
-        "author": " Tk Kane ",
-        "date": "24 August 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Why is the app so slow when it comes to loading up, it takes 25sec for the app to load on my phone. Fix the load times and a 5 star rating is what you will get.. Wheres my bitcoin cash?"
-    },
-    {
-        "author": " Corné van Schoor ",
-        "date": "24 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I have been waiting 4 days for a transaction from my BTC wallet to show up in my ETH wallet, I'm going to assume that its gone :("
-    },
-    {
-        "author": " Alex Morgan ",
-        "date": "24 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Jaxx is flawed but very useful. Sure it occasionally takes longer to shapeshift than expected. Also the shapeshift or transfer by fiat amount often produces the wrong amount in crypto. Watch this closely. I accidentally sent 10 pounds worth instead of 500 pounds because of that error. Other than this I have no issue. Very good wallet. Allows me to trade within reason wherever I am."
-    },
-    {
-        "author": " kierran scown ",
-        "date": "23 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Takes forever to load the app and changes coin addresses without notifying. So lost coins without knowledge. Pissed off"
-    },
-    {
-        "author": " Cakewalker 85 ",
-        "date": "23 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  App is great. Loving shapeshift built in. Ones quick suggestion for UI. Allow left/right swiping to change wallets. Also, when can I get my Bitcoin cash wallet?"
-    },
-    {
-        "author": " teddybeerlepel1 ",
-        "date": "23 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Jaxx had issues, now it is working better. And they have added more coins, although I would like to see more coins that matter, line Monero and Bitcoin Cash. Maybe even add all shapeshiftable coins."
-    },
-    {
-        "author": " Andy Taylor ",
-        "date": "23 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Good as has multiple currencies - bad as shapeshifting costs a fortune - not market rates"
-    },
-    {
-        "author": " Evinawer ",
-        "date": "23 August 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  It's very slow opening..."
-    },
-    {
-        "author": " Jorrick Sleijster ",
-        "date": "20 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  At the moment rep is only able to receive but not to send money. Please fix this as I want it out asap."
-    },
-    {
-        "author": " Rich Martel ",
-        "date": "19 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Please support Bitcoin Cash.  It's very important to me.  Also an increase in performance and minimizing the hangs would be very welcomed.  Thank you."
-    },
-    {
-        "author": " VARUN.N RAO ",
-        "date": "19 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Excellent, but please solve this issue, I have paired jaxx on my PC and smartphone, and in both of them, only ethereum initializes every time, can you solve this issue."
-    },
-    {
-        "author": " Aswindran Ghanaseharan ",
-        "date": "18 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  It takes too long to load the app."
-    },
-    {
-        "author": " Siddhesh More ",
-        "date": "17 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Stay away !!!! There are better alternatives out there. Jaxx is full of false promises(Bitcoin cash) and painstakingly slow laggy interface"
-    },
-    {
-        "author": "  ",
-        "date": "16 August 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  The app is okay but I've had some issues (making the whole experience pretty average). I transfered my Bitcoin from another wallet to Jaxx, and for 3 weeks it said the transaction was unconfirmed. I then checked the transaction ID online, and it said it had been confirmed about about 2 weeks prior. The app just hadn't shown it? Also, the option to view my Bitcoin in the ZAR currency option (South African Rands) always shows up as R0.00, so I always have to view it in US Dollars instead."
-    }
-][
-    {
-        "author": " Lord Hivail Funa ",
-        "date": "16 August 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  I cant shift or send my BTC. Is there a problem with the apps?"
-    },
-    {
-        "author": " Exceptional Views ",
-        "date": "15 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Horrific. Slow as tar. Illogical. Use Coinomi. It does everything this does, and more and and better."
-    },
-    {
-        "author": " nmon001 ",
-        "date": "15 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  This doesn't pair both used QR and secret words.  Basically useless app for me.  Uninstalled already. What a disappointment."
-    },
-    {
-        "author": " Heroic Dove ",
-        "date": "14 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Please my civic coin is missing from my wallet. Help please"
-    },
-    {
-        "author": " Nonso Okolo ",
-        "date": "14 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Cannot restore account once you've logged out or uninstalled the app. You'd forfeit your coins"
-    },
-    {
-        "author": " Adam Crowell ",
-        "date": "14 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Jaxx is a scam do not use if you value your money they will play you like a tool with error after error to sap every last penny off you"
-    },
-    {
-        "author": " Mohamed Nabil Ali ",
-        "date": "13 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  One of the best multi platforms wallet. Easy to use, and great support team"
-    },
-    {
-        "author": " Dominic Ainsworth ",
-        "date": "13 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Can you please add Bitcoin Cash. App is laggy and crashes lots. Doesnt sync between devices so im not sure how much BTC I have. Slow clunky swipe between coins."
-    },
-    {
-        "author": " Tomas Stončius ",
-        "date": "13 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  It's ok, but I do not want to transfer my paper wallet. It is not allowed to import watch address... I would love to have an app where all coins could be consolidated."
-    },
-    {
-        "author": " Stanley Kaytovich ",
-        "date": "13 August 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Not working right. Just seeing splash screen. Wallet already set up prior on the same device."
-    },
-    {
-        "author": " Mitja Immonen ",
-        "date": "13 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Owning a lot of different currencies, jumping from wallet to another is very unconvenient. This app is in need of navigation structure update. The wallets could be in a sidebar for example. Why does the splash screen take 10sec? Shapeshift integration has worked as intended for me and I have funds on multiple currencies without having faced any problems. I also havent had any problems with different currencies so far."
-    },
-    {
-        "author": " Alex Ingush ",
-        "date": "12 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  You need to support more cryptocurrency"
-    },
-    {
-        "author": " Sifiso Shabalala ",
-        "date": "12 August 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  I've been try to use built in shapeshift and it doesn't work 100%. Keeps transferring between BTC and ETH, I get charged for transactions that I do no want. Please address this issue, I've already lost 10 dollars because of this."
-    },
-    {
-        "author": " Chad Ward ",
-        "date": "11 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  I use it for Ether and Litecoin. Works great for me in East Texas."
-    },
-    {
-        "author": " Laksanawadee Dee ",
-        "date": "11 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I am so mad at this app.  Suddenly it decided to update and force me to re log in.  I wasnt able to and still have a bunch of coins in it.  Urgh"
-    },
-    {
-        "author": " Rolf Wessels ",
-        "date": "11 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  It's ok, worked great for a while but seems very unstable lately. Currently my currency updates are not working at all. (it's still on values recorded 2 months ago)"
-    },
-    {
-        "author": "  ",
-        "date": "10 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Works, but not without some issues. -slow and occasionally buggy with displaying transaction histories -can have issues with the integrated shapeshift feature (most of the negative reviews I've seen deal with this, and blame is hard to place between shapeshift or jaxx, personally, I downloaded shapeshift separately and used it since I can transfer between more coins and my other wallets at the same time without problems) -after a recent post about a vulnerability of the 12 word passphrase on Reddit, the CEO of Jaxx says he's comfortable with their current security level (aka, no fix) and reminds jaxx users that this is a \"hot\" wallet meant for small amounts of cash  Other than that, wallet functions as promised, and I was able to successfully recover my wallet (and coins) with my backup passphrase. Jaxx supports coins that other mobile wallets do not and up until the recent debate on security has had a clean track record."
-    },
-    {
-        "author": " Mr Fender bender ",
-        "date": "10 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Where is my BTH JAXX is holding my BTH hostage and they said they would support it JAXX  said in a tweet that everybody  will be receiving their bth coin as soon as they integrated into their wallet but on the contrary when I sent them a tweet they're telling me they are unknowns about bth so what does this mean are we going to get our bth coin or not people with other wallets have received their bth now they're telling me if I take out my BTC for trades that was in the wallet prior to the fork out of the wallet I may not receive my bth it is at my own risk which is completely the opposite of what they said before I put btc in there wallet .Jaxx when are you going to release my bth coin that I'm entitled to I will change my ratings as soon as I am able to get my coins I'm tired of the excuses no other wallet had problems receiving their bth coin!"
-    },
-    {
-        "author": " Kho say leong ",
-        "date": "10 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  SCAM ALERT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! PLEASE DON'T USE THIS Apps.  The transaction fees is a rip off! I was charged 0.0488 Bitcoin (USD166!) for sending 0.27 Bitcoin as transaction fees!"
-    },
-    {
-        "author": " Ace Khakeo ",
-        "date": "9 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Bad app so slow to load. Did a exchange using shape shift from Civic to Litecoin. Took coins out of my Civic wallet but never deposited to my Litecoin wallet. I will change my rating when I get my coins back. Contacted shape shift but haven't heard back yet. Everybody should avoid this app until they fix the issues with shape shift."
-    },
-    {
-        "author": " Tech Fire ",
-        "date": "9 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Plz add the XMR wallet"
-    },
-    {
-        "author": " Abdulrazaq Amedu ",
-        "date": "8 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Jaxx wallet doesnt pair, I have been trying to pair my wallet with my 12secret words but it simply doesn't pair. It doesn't even say confirm after entering ur 12 words so u cant find an option to click enter or confirm. therefore its impossible to restore wallets..  Pls fix dis"
-    },
-    {
-        "author": " mikeb mkhwanazi ",
-        "date": "8 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Plz help to allocate my tokens which bought using my wallet address ,"
-    },
-    {
-        "author": " Ben Kilian ",
-        "date": "8 August 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Incredibly slow. Completely unusable."
-    },
-    {
-        "author": " John Herzog ",
-        "date": "7 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  So far I like the app. What's kept me from a 5-Star rating is that there doesn't seem to be a way to use my favourite fiat currency nor does it seem to allow me to add other crypto-currencies once the wallet is set up. Regarding the later, shall we call it a complaint, I suppose I could just reinstall a new wallet and deal with the \"seed,\" a bit of a nuisance if you ask me. I'm hopeful my two complaints will be addressed in future up-dates."
-    },
-    {
-        "author": " Nick Andrew ",
-        "date": "7 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I cant transfer funds"
-    },
-    {
-        "author": " Chinedu Amadi ",
-        "date": "6 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Does anyone know another wallet I could try? One that supports various cryptocurrencies not just Bitcoin.  Jaxx seems to be having issues. It doesn't update the values of the cryptocurrencies anymore. The recent updates have not addressed that issue and that is disappointing"
-    },
-    {
-        "author": " Arlene Dimdiman ",
-        "date": "5 August 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Value(current price) not updated...when the updated value will appear?"
-    },
-    {
-        "author": " Christopher Stefanski ",
-        "date": "5 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Can't link/restore my wallet I created on my desktop via qr code/back up phrase..."
-    },
-    {
-        "author": " Krishna Kumar Y ",
-        "date": "5 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Great app"
-    },
-    {
-        "author": " Broomangie 101 ",
-        "date": "5 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  A good Wallet has Golem witch I think will skyrocket one day"
-    },
-    {
-        "author": " bragee ",
-        "date": "5 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Best"
-    },
-    {
-        "author": " Amit Kumar ",
-        "date": "5 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Very useful wallet in Cryptocurrency. Thanks Jaxx to Manage my important wallet."
-    },
-    {
-        "author": " William Andrade ",
-        "date": "5 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Good, many exclusive features but many bugs likes transaction history"
-    },
-    {
-        "author": " Philip Morris ",
-        "date": "5 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  A really good app, just wish ripple was supported"
-    },
-    {
-        "author": " Todd Masse ",
-        "date": "4 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  This is the best app I have found for crypto currency."
-    },
-    {
-        "author": " tirai anjung ",
-        "date": "4 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  How can i claim my bch? I can't see any place to claim it. Thanks"
-    },
-    {
-        "author": " Zaid Mirza ",
-        "date": "4 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Great app. Easy to use. Syncs with desktop chrome extension.   Anyone worried about BCH, you can use you private keys to air drop your BCH into coinomi, and then send it over to bittrex.   Have fun"
-    },
-    {
-        "author": " soufian addi ",
-        "date": "4 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Good wallet where you can find many coins and also provide you possibility to get your private keys.I recommand"
-    },
-    {
-        "author": " Khavin Shankar ",
-        "date": "4 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Everything is really amazing about Jaxx wallet except for security, it would be great if Jaxx team include two factor authentication... Anyway it's great"
-    }
-][
-    {
-        "author": " Mark Wilko ",
-        "date": "3 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  The ETH transaction history is not working in the latest version but still works in an older version of the app."
-    },
-    {
-        "author": " gg haha ",
-        "date": "3 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Seems ok so far but slow on start up. Lacks Bitcoin-cash extraction from new chain."
-    },
-    {
-        "author": " Allex Seni ",
-        "date": "3 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Simply the best wallet"
-    },
-    {
-        "author": " KJ Master ",
-        "date": "2 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  I like the app but...  What about password protection when launching  the app???  This is a must!"
-    },
-    {
-        "author": " Ciprian Gafița ",
-        "date": "2 August 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Jaxx with J from Just terrible, 2 min to turn on. Insecure because I think it still doesn't encrypt the private keys. Forget about Jaxx. Investigate Coinomi"
-    },
-    {
-        "author": " Christopher Bauer ",
-        "date": "2 August 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Solid wallet that supports ETH and BTC; would prefer material design"
-    },
-    {
-        "author": " janmejay agrawal ",
-        "date": "2 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  I love your interface, but when you guys will release monero support ??? Any eta ???"
-    },
-    {
-        "author": " callum ",
-        "date": "2 August 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  What's not to like. Works like a charm, honest legit team, supports more coins than other options and is safe. Looking forward to seeing new coins on here soon. Lots of bad reviews from mugs by the looks of things."
-    },
-    {
-        "author": " Xander Nel ",
-        "date": "2 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  All my balances show as 0 even though I have coins in different currencies... please help"
-    },
-    {
-        "author": " Bernard Wallace ",
-        "date": "2 August 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Happy wit the updates, things are going smoothly again and its good to hear you will be integrating BCH into the system! Thanks to all for the hard work"
-    },
-    {
-        "author": "  ",
-        "date": "2 August 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Doesn't support XRP"
-    },
-    {
-        "author": " Zero Legacy ",
-        "date": "31 July 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Definitely seen some serious improvements since my last use. Updated rating."
-    },
-    {
-        "author": " Kurt Johnson ",
-        "date": "31 July 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  App drained my OnePlus 5 battery like it was nothing."
-    },
-    {
-        "author": " wanlin eow ",
-        "date": "30 July 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Clean interface. It'll be awesome if they can have more alt coins."
-    },
-    {
-        "author": " Jeanne Barkhuizen ",
-        "date": "30 July 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  I think this wallet is nice just a few things need to be resolved the transaction history does not work nice if they can make it more like wirex history it would be great and the desktop value does not work"
-    },
-    {
-        "author": " Caper vVv ",
-        "date": "28 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  All of my money was stolen last night while I was sleeping and there is no contact info to figure out what happened"
-    },
-    {
-        "author": " Robert Navarro ",
-        "date": "27 July 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Good app I would like to see EOS added to Jaxx"
-    },
-    {
-        "author": " Yassir M'rabet ",
-        "date": "27 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I need to post this review, some days ago everything was working fine I had an eth wallet with transactions and a golem one with funds activated. Then I upgraded the application and my eth address suddenly changed to my golem one.. all the transactions were gone, thank god I didn't have funds there."
-    },
-    {
-        "author": " Rafael Nogueira Sponfeldner ",
-        "date": "26 July 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Nice but could be better when the server be more faster"
-    },
-    {
-        "author": " Jeremy Collake ",
-        "date": "26 July 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  This application has improved dramatically since my last use and I now trust it. I think the name could have been better chosen, in hindsight, but it is solid. The Windows app doesn't display wallet values, but... one bug at a time, and the fact that you can *link* your desktop and mobile accounts is pretty cool."
-    },
-    {
-        "author": " Dave Pimentel ",
-        "date": "26 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Never use this app. Several instances where i noticed my balance being reduced by just storing it there. I thought I just made a mistake until I started taking screenshots. Thrice my balance was reduced within two days of observing. I told myself to get out. This was the major problem I had. Another is that the transaction history has bugs. Hence, i was having a difficult time in keeping track of my balance and transactions."
-    },
-    {
-        "author": " Taylor Dan Smith ",
-        "date": "25 July 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  I don't review often but I must say this is a very good way to start day trading digital currencies! I look forward to updates that smooth out the interface (which is almost perfect)"
-    },
-    {
-        "author": " Cameron Voell ",
-        "date": "25 July 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Best wallet app for the basic use case of sending payments and shapeshiftng between currencies. Would love shielded zcash transaction support!"
-    },
-    {
-        "author": " Jacqueline Eloise Johnson ",
-        "date": "23 July 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Still learning features."
-    },
-    {
-        "author": " Dave Mansfield ",
-        "date": "23 July 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Seem to do what it is supposed to do."
-    },
-    {
-        "author": " GTR ARGH ",
-        "date": "22 July 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Why is ethereum price staying same all week"
-    },
-    {
-        "author": " Keith Mehrer ",
-        "date": "22 July 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Is this app as good as it could be? Definitely not. It updates values seemingly when it feels like, it's often slow and it isn't always intuitive. But, credit where credit is due - it has Shapeshift, it has multiple wallets (could use more) and their support team recognizes problems and seems to want to help."
-    },
-    {
-        "author": " Khiem Huynh ",
-        "date": "20 July 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Set-up is terrible. So tedious scrolling thru the little currency bar on top.  THE WALLET SHOULD BE THE MAIN PAGE SHOWING ALL THE CURRENCIES , showing how much you have and the current exchange rate."
-    },
-    {
-        "author": " anthony mcgrath ",
-        "date": "19 July 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  It's pretty cool. Shapeshift feature is nice but can you add a wallet for feathercoin.. it might not be owt major but we have doge wallet so add in some of the smaller ones too :)  siacoin and lisk for example"
-    },
-    {
-        "author": " Sebastian Koper ",
-        "date": "18 July 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Intuitive interface, great product"
-    },
-    {
-        "author": " Wayne Morgan ",
-        "date": "17 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Extremely slow. Litecoin shows the value but not how many held. Looking for a replacement app. This is not appropriate when dealing with people's money."
-    },
-    {
-        "author": " Fredrik Normann ",
-        "date": "17 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Shows wrong amount. Impossible to trust this app. Had to export my private keys to move my founds. Horrible experience and very slow."
-    },
-    {
-        "author": " Bill ",
-        "date": "16 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  One in every four transactions goes missing!   POOF!   ...GONE!   Yeah,  put money in one side and nuthin comes out the other.     Go ahead, submit a ticket and see how long it takes to get reimbursed."
-    },
-    {
-        "author": " Harry Holzhauser ",
-        "date": "16 July 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Very nice interface"
-    },
-    {
-        "author": "  ",
-        "date": "16 July 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Works perfectly"
-    },
-    {
-        "author": " Daevid Vincent ",
-        "date": "16 July 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Looks nice, but given the 1 star reviews, I'm hesitant to actually use it for anything."
-    },
-    {
-        "author": " Sam Koh ",
-        "date": "15 July 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Quick response fr support."
-    },
-    {
-        "author": "  ",
-        "date": "13 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Used built-in shapeshift and watched my coins disappear... Don't use this if you mind losing everything to lousy software."
-    },
-    {
-        "author": " Ian Grant ",
-        "date": "11 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Nowhere did I find, until much later, that one can't mine to this wallet... :-O"
-    },
-    {
-        "author": " Ryan Mercer ",
-        "date": "11 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Won't let me transfer icn out all of a sudden, creates empty contracts. Come on guys I burned up a bunch of eth before I figured out it wasn't working."
-    }
-][
-    {
-        "author": " Яков Крайнов ",
-        "date": "10 July 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Nothing new. Still buggy, only few coins and no alternative."
-    },
-    {
-        "author": " Pislaru Ovidiu ",
-        "date": "9 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Jaxx totally sucks. Big time. Lost ETH. There is no way of getting any kind of reasonable answer from support. Uninstalled and hopfully never will hear of it."
-    },
-    {
-        "author": " Hasanuddin Ramly ",
-        "date": "9 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  My ETC not received at jaxx blockchain..."
-    },
-    {
-        "author": " Sergey Starodubtsev ",
-        "date": "8 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Buggy. Transfrers 0 on shift."
-    },
-    {
-        "author": " shamlic arafaath ",
-        "date": "7 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I cant tranfer my bitcoins to other website so it is worst wallet do not install this wallet"
-    },
-    {
-        "author": " Xantor Iii ",
-        "date": "7 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Like other users I lost money while transferring f funds as well.  Additionally I was being charged mining fees for transactions that were being confirmed 12+ times and never going through this locking money in a single currency without the ability to transfer it out.  Initially support would respond within a day but later took over a week.  I strongly recommend to search for a better alternative."
-    },
-    {
-        "author": " Owen Kane ",
-        "date": "6 July 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Great app but chews the living daylights out of your battery...don't leave it running...use only when you need to!"
-    },
-    {
-        "author": " Ravi Tokas ",
-        "date": "5 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I transferred some iconomi on this wallet but never recieved it even after confirmation. Thieves stole my money . I am going to report them"
-    },
-    {
-        "author": " Ebrahim Magdy ",
-        "date": "4 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  My ETC wallet not sending"
-    },
-    {
-        "author": " ViETKhanGG ",
-        "date": "3 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I don't understand why when I shape shifted from zecash to bitcoin I lost half of my value and made no sense man wish jaxx wallet could fix this issue"
-    },
-    {
-        "author": " Harvey Green ",
-        "date": "2 July 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  The app works really well. The shapeshifter integration is a work of genius."
-    },
-    {
-        "author": " Itamar Durli Junior ",
-        "date": "1 July 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I have lost my smartphone, and now I can't restore my wallet, probably I missed my money using this app.  Perdi meu celular e não consigo abrir minha carteira, provavelmente perdi meu dinheiro neste aplicativo."
-    },
-    {
-        "author": " Rodrigo Herrera-Vegas ",
-        "date": "1 July 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Can't restore the wallet from my previous phone. No button to push after reading qr code or entering 12 word password. Probably a screen resolution issue. Nexus 6P"
-    },
-    {
-        "author": "  ",
-        "date": "29 June 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  It is unclear why the app has coins that the Firefox extension does not have and the Firefox extension is several versions behind the android app"
-    },
-    {
-        "author": " Travis Remington ",
-        "date": "29 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Simple to use and offers the most options for users.  Treat like the wallet in your pocket."
-    },
-    {
-        "author": " Georg Schulte to Brinke ",
-        "date": "29 June 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Does all it promises and conveniently"
-    },
-    {
-        "author": " Rob Hamilt0n ",
-        "date": "29 June 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Good but not there yet.  Please allow left right drag to switch between currencies. More currencies.  Portfolio total...? Etc."
-    },
-    {
-        "author": " eric swan ",
-        "date": "28 June 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Eth constantly initializing(seems like in a loop) when you want to use it.  Add more coins like ubiq,bat,monero. Portfolio/profile screen would be nice to have. Keep up the work!"
-    },
-    {
-        "author": " Abhay Singh ",
-        "date": "28 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  ETC COIN NOT SENDING"
-    },
-    {
-        "author": " Olly Manders-Naden ",
-        "date": "27 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  A great app for quick transactions. I wouldn't recommend using for storing large sums of any currency. Finally, a lot of the reviews are blaming Jaxx for issues that are entirely the cryptocurrencies fault! i.e. Bitcoins high fees and slow confirmation times due to full blocks, not Jaxx."
-    },
-    {
-        "author": "  ",
-        "date": "27 June 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Shame the app suddenly doesn't start up anymore..."
-    },
-    {
-        "author": " gene coin ",
-        "date": "26 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  The best user friendly crypto wallet available in town ..During the previous update I had a hard time recovering my ether.The recent update have made it awesome...hope you will add monero,ripple etc..in the list."
-    },
-    {
-        "author": "  ",
-        "date": "25 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  They lost all my Ethereum. After 2 weeks support responded to say they don't know where my Ethereum went. This is their idea of highly secure wallet. Shame on Jaxx 😞"
-    },
-    {
-        "author": " michael karkosky ",
-        "date": "25 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Stole my money... As a simple wallet you are safe. but dont plan to use the shapeshift feature. To swap coins you will be highly upset, and lose all of your money"
-    },
-    {
-        "author": " Hash Zero ",
-        "date": "22 June 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  My ETH wallet initializes everytime I open it... Every other wallet doesn't ! I think it must be a bug !"
-    },
-    {
-        "author": " JP McPhearson ",
-        "date": "22 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  This app seems to do the same thing that Miner gate did to me in the past. Hi got a ton of mining ability setup and built up a good amount of each currency I can mine through that program. I never got a wallet because it is allowing you to use their services of wallet until you need a certain type of wallet for certain type of transactions. For the past few months I have been trying to contact them and another Institution and saving every bit of documentation to prove my point and this is what is going to destroy such a great thing to get us away from the central Bankers are these little chump companies taking our hard-earned mind currencies. I'm warning you do not try this or minor gate for sure"
-    },
-    {
-        "author": " Eric Uys ",
-        "date": "22 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  You fu&in assholes. Stole my money! And then blame the ETC overload volume. Do not use this service. Its bogus. I did a transfer from BTC to ETH. Almost 30 hrs later. The funds are gone! Somehow ended up in another BTC wallet. Unexplained.."
-    },
-    {
-        "author": " Achwaq Khalid ",
-        "date": "21 June 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Why no option to set the transaction fee for DASH💱"
-    },
-    {
-        "author": " Antonio DeAngelis ",
-        "date": "21 June 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  So far so good. I have transferred coins such as ether and litecoin from another wallet and used litcoin already to shapeshift into other coins. Transactions aren't the fastest but not the slowest. Easy to use no issues except there isn't a transaction history available for golem which I find weird but the money is there never the less. My request is to see more coins added and the transaction history for my golem"
-    },
-    {
-        "author": " Jerome m ",
-        "date": "21 June 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Jaxx won't release my 0.0008 btc  balance or even a portion of it...even on the lowest mining setting!  I'm so done with this thing!"
-    },
-    {
-        "author": " Kenneth Crabb ",
-        "date": "20 June 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  I shifted  money from golem jaxx wallet to my ETH wallet. The money sent, the balance reads 0.00 but then the money reappears back in my golem wallet. Nothing recieves in my ETH jaxx wallet. This happend ALOT. Why?  I cleared chache twice, nothing happends.  Ive sent you a support ticket and you reply to my ticket with blank responses. This happend twice. What's up Jaxx? So far your wallet isn't very fun for me."
-    },
-    {
-        "author": " Anderson Valle ",
-        "date": "20 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Dangerous! I had made a ETH shape shift to BTC and it just ddisappears. 5.000usd just disappears!"
-    },
-    {
-        "author": " Татьяна Mlnkv ",
-        "date": "20 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Let's add XRP, please👛"
-    },
-    {
-        "author": " Emmanuel Babalola ",
-        "date": "18 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  This app doesn't allow me send BTC. Spendable is limited to $3 but I have over $200BTC all confirmed on the Blockchain"
-    },
-    {
-        "author": " john kass ",
-        "date": "17 June 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  This app is designed to be a scam.  When you want to shapeshift be careful! It says shapeshift at the top that is actually a field that you should put the destination wallet.  It seems like just selecting change bitcoin to ETC would automatically fill in your two wallets since you have both in the same app, but no.  That field that says shapeshift means they will convert your coins then give them to shapeshift! That is the destination wallet.  Very deceptive and I'm sure intentional."
-    },
-    {
-        "author": " Stephen Gagnon ",
-        "date": "17 June 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Attempted to use the shape shift feature of the app to convert etherium classic to etherium almost a month ago.  Transfer left and appears to be stuck in limbo never to return.  User beware."
-    },
-    {
-        "author": " Hong-yiu Lin ",
-        "date": "16 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Cannot send zcash."
-    },
-    {
-        "author": " Raymond Blake ",
-        "date": "16 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Don't use this app. If you use it as a wallet, sooner or later you'll be tempted to \"shapeshift\" which is convert your coin to a different cryptocurrency. It's a scam and it doesn't work! Myself and countless others have been robbed of so much cryptocurrency it's insane. The \"support\" doesn't reply...this app needs to be removed from the Playstore."
-    },
-    {
-        "author": " Andrea Manzati ",
-        "date": "16 June 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  This app miss a very basic functionality: add ethereum currencies manually (the same way one can do in myetherwallet), therefore tokens that are not already in the supported list are not showing up from your wallet. For example BAT and others ERC20 are not available."
-    },
-    {
-        "author": " Bruno Martins ",
-        "date": "16 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Warning : This app has been exposed to be insecure. You're seed words are stored in plaintext and can be extracted. Don't trust these guys!"
-    }
-][
-    {
-        "author": " Yahya Al Hajj ",
-        "date": "16 June 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Very slow, you have to press the screen 1000 times just to get the app to respond.  What's up with that?!?!?!"
-    },
-    {
-        "author": " Udaya Bajracharya ",
-        "date": "15 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Great app, great support.  Very quick and responsive support team.  Loving it!  As promised five stars, as the issue reported is solved now. :)"
-    },
-    {
-        "author": " Ivan Dasović ",
-        "date": "15 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Great app :)"
-    },
-    {
-        "author": " Ali S ",
-        "date": "14 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Bad security.  Seed can be leaked."
-    },
-    {
-        "author": " Karuna Prasad ",
-        "date": "14 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  I feel that the current rating for this app is simply unfair... This one deserves a 5* rating without a doubt. One of the best Blockchain wallet out there with some pretty slick features... Kudos to the dev team."
-    },
-    {
-        "author": " Idiocracy Watch ",
-        "date": "14 June 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  I thought we were past the era of having to question whether the wallet private keys are encrypted."
-    },
-    {
-        "author": " Joni Tirri ",
-        "date": "14 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Unsecure wallet, moving my funds to a more secure wallet."
-    },
-    {
-        "author": " Carlos Macam ",
-        "date": "14 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  STEALING YOUR FUNDS.. HACKABLE"
-    },
-    {
-        "author": " Benjamin Barrer ",
-        "date": "14 June 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Whenever I wanted to invest the shapeshift button just became unresponsive. This app is not for me, hopefully I will be able to move my funds with no problems."
-    },
-    {
-        "author": " Rose Flores ",
-        "date": "13 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Do not download jaxx! Its a scam. I transfer my ETH balance in some my wallet but it turns to go to another website like etherscan.. i dont how to bring back my etherium."
-    },
-    {
-        "author": " Aizen Senju ",
-        "date": "13 June 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Not a bad looking app so far. It would be even better if you include a chart that shows amount of each currency for tracking and include option to add fundings from bank or card"
-    },
-    {
-        "author": " Prince Sinha ",
-        "date": "13 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Excellent"
-    },
-    {
-        "author": " Aleksey Nikulshin ",
-        "date": "13 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Great wallet. Simple and intuitive"
-    },
-    {
-        "author": " Gal Buki ",
-        "date": "13 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Jaxx stores the seed and the PIN in an insecure way! It can be read by anyone with access to the local storage."
-    },
-    {
-        "author": " Francois Brand ",
-        "date": "13 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Admin is non responsive. I can't send my coins out of the wallet. There are always issues when looking at the transaction on blockchain cypher. I have another request that is 5days old. No response. Guys you better do something or your days will be counted. Where is admin? On holiday?"
-    },
-    {
-        "author": " Ben Peters ",
-        "date": "13 June 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Overall, it's a great app; Shapshift built-in is convenient. However, the initial loading screen takes entirely too long, and the transaction history display needs some work."
-    },
-    {
-        "author": " Foyva ",
-        "date": "12 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Dash wallet stop working, lost 100s$ and there support won't help. Poor product"
-    },
-    {
-        "author": " Jose Rafael Peña Gholam ",
-        "date": "12 June 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  I installed it recently but today it was awfull it can't sync with Dash Blockchain it gave me a false balance."
-    },
-    {
-        "author": " Jonathan Cross ",
-        "date": "12 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I like the UI, but am concerned that this is not developed openly.  There is some source code dumped on their website, but it's not a collaborative development process or transparent. The code I have seen does not inspire confidence, financial software should be held to higher standards."
-    },
-    {
-        "author": " Claude M ",
-        "date": "11 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  And I absolutely love this app.. Anthony I recently met you at a meet-up at the Mars Centre. Now that you have added zcash I give it 5 stars... Now if you add monero I would give it 6 stars if I could... Please add monero soon, I hate having to use a different android wallet for this crypto."
-    },
-    {
-        "author": " Mahesh S Nair ",
-        "date": "11 June 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Hearing a lot about the security flaw with the wallet, please fix the issue on an urgent basis. Please."
-    },
-    {
-        "author": " N Chauhan ",
-        "date": "11 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  “Even when your Jaxx has a security PIN configured, anyone with 20 seconds of (network) access to your PC can extract your 12 word backup phrase and copy it down. Jaxx does not have to be running for this to happen.” and can you believe they said they wouldn't fix this ... Actually explains what happened to my missing ltc! That's why support stopped replying to me. Scumbags!"
-    },
-    {
-        "author": " Bhapinder Kumar ",
-        "date": "10 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Love to transact here"
-    },
-    {
-        "author": " Sergey Yusupov ",
-        "date": "10 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Super slow app, but leaving 1 star review for another reason: it's my vote to fix balance between security, portability and user experience"
-    },
-    {
-        "author": " Hagen Walter ",
-        "date": "10 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  BTC transaction fees are high at the moment but Jaxx takes more than 4 times the going rate.  Boo."
-    },
-    {
-        "author": " Kris Ish ",
-        "date": "10 June 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Word on the street is there's vulnerabilities......ijs"
-    },
-    {
-        "author": " Satoshi Drone ",
-        "date": "10 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  By far the best,safest and the only one I can usr muy phone pc and iPad with. I can buy either with coinbase send it to muy wallet and change it to dash using built in shape shift.   Assume and its easy aswell."
-    },
-    {
-        "author": " Leandro Lima ",
-        "date": "9 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  This app is sluggish. Almost seems like bad HTML running in an emulator or something.."
-    },
-    {
-        "author": "  ",
-        "date": "9 June 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Ok"
-    },
-    {
-        "author": " Rahul Marick Edge ",
-        "date": "8 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  U people are thieves"
-    },
-    {
-        "author": " Lara Santiago ",
-        "date": "8 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I sent 0.045 BTC and I am certain that I entered the right address, I double checked before hitting confirm, and the system changed the address, and who knows who received the BTC I sent"
-    },
-    {
-        "author": "  ",
-        "date": "8 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I  just did a shape shift btc to ETH swap 5 confirmations but no ETH yet but my BTC is gone. Please help"
-    },
-    {
-        "author": " Wireball MacCarter ",
-        "date": "8 June 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  I wish there was a way to hide the HD (hierarchical deterministic) behavior so my various cryptocurrency wallets aren't appearing to change addresses all the time.  Or at least a way to see my previous addresses (a transaction log) *without* showing my private keys onscreen at the same time.  Still, payments continue to receive fine at the old addresses."
-    },
-    {
-        "author": " Jonathan Mera ",
-        "date": "8 June 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Great App, you should have fingerprint recognition to enter the App and more coins for us to use"
-    },
-    {
-        "author": " Christian Pena ",
-        "date": "7 June 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  App runs a lot much smoother since the new update! It no longer feels sluggish. Would love to see Monero and Gridcoin be added to the app."
-    },
-    {
-        "author": " CryptoXPlanet Blockchain Miner ",
-        "date": "7 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Very Unstable!!!"
-    },
-    {
-        "author": " onyeche audu ",
-        "date": "7 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I had 7774 dogecoin on the 4th and transferred  2301 Doge to bleutrade. Only for me discover my balance was reading 0. I contacted support in the 5th about my missing 5000 plus doge and till now nothing. Dissapointed."
-    },
-    {
-        "author": "  ",
-        "date": "7 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  This app is a f#*! Scam! I had 1 full dash transferred in it and it worked fine RECEIVING it. After I tried to send some to THREE different wallets and it showed it went through no problem but it did NOT show up in the wallets! Then after a few days I still had .88 dash but it said I had 0 that I could send! So it was holding my dash hostage. Well I opened it yesterday and now it shows I have NO DASH IN MY WALLET AT ALL! IT STOLE ALL OF IT! MY advise is RUN as fast as you can from this thieving app!!!!"
-    },
-    {
-        "author": " Winning Sperm ",
-        "date": "7 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I can't believe how slow this app is... Not recommending to friends. It has some serious performance issues."
-    },
-    {
-        "author": " Imran Saha ",
-        "date": "6 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  It charges 10 usd for 50 usd transactions."
-    }
-][
-    {
-        "author": " Luis Ac ",
-        "date": "6 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I don't know how but actually the app transferred automatically 0.5 of etherium to some address, so I lost $150 it transferred exactly at midnight. I withdrew all my coins"
-    },
-    {
-        "author": " Markos Manoledakis ",
-        "date": "6 June 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  So far so good. Had a problem with shape shifter once when they didn't detect my deposit properly, but that had nothing to do with jaxx. The UI isn't perfect, but it's quite good."
-    },
-    {
-        "author": " AJIBI ZACCHAEUS-BUENAVENTURA ",
-        "date": "6 June 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Good app"
-    },
-    {
-        "author": "  ",
-        "date": "5 June 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Syncing across devices works but addresses constantly change and it is very worrysome when youre waiting on a deposit and the address suddenly changes. I really wish it was just a little bit faster."
-    },
-    {
-        "author": "  ",
-        "date": "5 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  I saw that the jaxx people were active in the community with answers and a seemingly honest and active work ethic, so I 'll place my ether in here and feel nice and safe. Thanks jaxx people, I wish you all the best in this project."
-    },
-    {
-        "author": "  ",
-        "date": "4 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Recent changes in Jaxx currency handling makes the app really fast now! Thumbs up! Best wallet app I know + linux support is awesome"
-    },
-    {
-        "author": " Philippe Nadouce ",
-        "date": "4 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Great app; really amazing and they really are good answering your questions."
-    },
-    {
-        "author": " Liam Aharon ",
-        "date": "4 June 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Locks up and becomes unresponsive on my One Plus 2 when restoring backup phrase. Love the desktop app. Will change review to 5 stars if this gets fixed.  EDIT: Locking up fixed. Thank you! Transaction history sometimes doesn't update though, 4/5 until this is fixed."
-    },
-    {
-        "author": " Kirtane Chiron ",
-        "date": "3 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Love it. Built in shapeshift is a dream. Can't wait until they support more tokens 😊"
-    },
-    {
-        "author": " oak ",
-        "date": "3 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Fantastic wallet. Very easy to use."
-    },
-    {
-        "author": " Pharrell Ogomuno ",
-        "date": "2 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  The transfer charges are way too high i set my fees to moderate and am been charged $7 to transfer $22 worth of btc this outrageous. Also the shapeshift is just a waste of funds. No history, it always give inacurrate balance. The problems with this wallet are just too much"
-    },
-    {
-        "author": " DEWALD KLOKOW ",
-        "date": "2 June 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Support is designed to be unobtainable. My spendable amount stays 0.. I can't shift anything.. all my payouts on investments have been going in here for days. I couldn't figure out how to even use in app help."
-    },
-    {
-        "author": " Ulufulu ",
-        "date": "1 June 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Being Canadian, I am proud to use a Canadian product.  Jaxx is very user friendly and when the 80+ coins are added, we will be the CEO of our own personal exchanges!  Can't ask for more...maybe throw in fiat options until Cryptos completely take over😎  Love the product.  Love the team.  I have recommended and helped over 20 people set their JAXX wallets up and intend to help hundreds more.  Keep up the good work and welcome aboard Charlie✌"
-    },
-    {
-        "author": " Gianfranco Bonito ",
-        "date": "31 May 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Liked it, very slow tho. When are you going to add Ripple?"
-    },
-    {
-        "author": " Ahmed Nattiel ",
-        "date": "31 May 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Good one"
-    },
-    {
-        "author": " Devan Nielsen ",
-        "date": "30 May 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  2 stars because I can't get history. It had one payment from over a week ago."
-    },
-    {
-        "author": " Jack de la cruz ",
-        "date": "30 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Did not receive my eth."
-    },
-    {
-        "author": "  ",
-        "date": "30 May 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  This app allows me to trade some coin and tokens."
-    },
-    {
-        "author": " vishwas Gorde ",
-        "date": "30 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Transferred btc to Eth 24 hours up not received the Eth yet will change my review once I get the Eth"
-    },
-    {
-        "author": " Sweeney Todd ",
-        "date": "30 May 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Nothing more to add than - we are all waiting for Ripple! Other than that - brilliant :)"
-    },
-    {
-        "author": " Nima Jahanbin ",
-        "date": "29 May 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Question:. Can I import my private key from my etherium desktop wallet into jaxx so I can split the funds into etc and eth?"
-    },
-    {
-        "author": " Dzulqarnain Nasir ",
-        "date": "29 May 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  A bit slow to load. Otherwise a nice app."
-    },
-    {
-        "author": " Ezra Lambe ",
-        "date": "29 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I don't know why I can't transfer Rep or GNT even though I have 3 Ether. The required ether I'm aware of is 1. Also, I don't understand why my ether balance won't be updated each time I receive ethereum until I reinstall the jaxx app."
-    },
-    {
-        "author": "  ",
-        "date": "28 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  It's been two days and I can't still access my dogecoin account.  Your customer support is asking a lot of information which are irrelevant to my problem.  I'm very disappointed because I might loose more than 200k of dogecoins."
-    },
-    {
-        "author": " Wilkin Santana ",
-        "date": "27 May 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Doge wallet won't Initialize. Can you guys please check on this. I can't recover my coins because the Doge wallet just won't initialize."
-    },
-    {
-        "author": " Simon A ",
-        "date": "27 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  It will steal your money and their support people lie."
-    },
-    {
-        "author": " Jerry Ji ",
-        "date": "27 May 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  It's a good multi platform multi crypto currency HD wallet. Not only do I have nothing much to complain, I don't even know any other multi platform multi currency HD wallet out there asof May 2017."
-    },
-    {
-        "author": " Charlton Goliath ",
-        "date": "27 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  I just downloaded the app and transferred ether, now the app froze. It doesn't open."
-    },
-    {
-        "author": " adrian peirson ",
-        "date": "26 May 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  mmm, I have this installed on two devices. On one there is iconomi and doge; but not on the other yet both say they are up to date. PS are the private keys held on my device or your servers. Otherwise a fabulous app for storing multiple altcoins."
-    },
-    {
-        "author": " Noel Salazar ",
-        "date": "26 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Slow to open. Cannot access my dogecoins and the customer support is very confusing because of all the data you have to fill up. Am I about to loose all my dogecoins worth more than 600 dollars?"
-    },
-    {
-        "author": " dennis christie ",
-        "date": "26 May 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Etherum Wallet is extreamly slow when can you update before I decide to pull my coins?"
-    },
-    {
-        "author": " Adam ",
-        "date": "25 May 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  If it wasn't freezing all the time of be able to tell you about it but it simply does not function properly yet"
-    },
-    {
-        "author": " shock elites ",
-        "date": "25 May 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  This only needed one thing . when I open that app . app did not ask pin . this is very bad point . no protection inside app lock when any one  can open the app . this app don't have itself lock system . ..  If use jaxx . I stop share my phone to other 😹  jaxx dont have self lock protect system . any one n see or use it hahaha"
-    },
-    {
-        "author": " Michael Rawlence ",
-        "date": "25 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Bitcoin went in OK, but a large amount of ethereum was sent to me and hasn't arrived in over 20h (even though etherscan confirmed the payment was sent to my address). This is unacceptable."
-    },
-    {
-        "author": " Александр Баласян ",
-        "date": "24 May 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  It would be great if you added somewhere a total amount of money in all wallets."
-    },
-    {
-        "author": " Heinrich Schmoll ",
-        "date": "24 May 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Inconsistent balances between my PC and my android app.  This app read 10 ETH and my PC read 170...  It is supposed to be the same wallet.  Not cool."
-    },
-    {
-        "author": " Rawb Wayland ",
-        "date": "24 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Do not use this app for any reason, you will lose money. The customer service is awful. They ask you question after question and make you jump through multiple hoops and don't ever respond to your second email. Their system is screwed up and they know it. They probably have lawsuits on their hands all over the place. One of my wallets is frozen and can only receive funds. I have cleared cash and done everything they've asked me to and they will not respond to my second email that answers their questions. I've sent in multiple tickets and filled out their form exactly how they wanted it. I also have this problem on multiple platforms with the newest version of the app. Again do not use this app you will lose money. I bet they will not even be around within a year."
-    },
-    {
-        "author": " Vention Bee ",
-        "date": "23 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Worst wallet ever. Lost .746 btc while trying to shut to ether. Jaxx points at shapeshift as the problem and shapeshift points to Jaxx, and I have no way of recovering my funds. Jaxx keeps no record of the transaction history so I can't prove what ether address was specified and the one shapeshift sent it to isn't in my ether wallet. Don't use the on board shift function. You could lose your money. If you must use this wallet use the seperat shapeshift app and just copy the addresses over manually."
-    },
-    {
-        "author": "  ",
-        "date": "23 May 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Nice idea because if it was running properly i would have expected it to be very secure and user friendly. It offers the facility to store a range of desirable coins all with their own individual public + private keys and 12 word recovery phrases .  In addition you also the get a key for the entire wallet portfolio. Unfortunately my waves transaction got stuck in the form data and I just cannot get it out no matter how many times I try to clear the cache."
-    },
-    {
-        "author": "  ",
-        "date": "23 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Most of my ETH have now disappeared, seams that it is stuck on an old address and no transactions are shown for months. It makes it useless and feel unsafe."
-    }
-][
-    {
-        "author": " myer87912 ",
-        "date": "22 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  My golem is stuck!!! I can't even submit a ticket cause there web site has issues!!"
-    },
-    {
-        "author": " Peter Akporume ",
-        "date": "22 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Poor I shapeshifted and I can't see my coins for over one hour"
-    },
-    {
-        "author": " Rich Haslam ",
-        "date": "22 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  The app malfunctioned after I transfered over $253 to it. I have not been able to access my coins since. They admitted that tha app had a problem and asked me to download a recent update. No coins there either. They lost my coins and won't reimburse me. DO NOT USE! This company is unreliable."
-    },
-    {
-        "author": " Fire Beard ",
-        "date": "22 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  My GNT are locked up in the app, I cannot send them. The prices haven't updated all day. Do not download this app, it is a scam app. I expect a prompt reply from the developers with more information on when im going to be able to recieve my funds."
-    },
-    {
-        "author": "  ",
-        "date": "22 May 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  The keyboard used to enter amounts really needs a decimal point."
-    },
-    {
-        "author": " Chris Dolsen ",
-        "date": "22 May 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  I loved the app until 2 days ago. After it updated, my ETH balance has been stuck, never updating. Regardless of how many times I reload it, restart the app, etc, it never changes."
-    },
-    {
-        "author": " Alan Ritson ",
-        "date": "22 May 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Hmmm. My account shows tokens in Android but shows 0 dollars value. On  the PC it shows the same number of tokens and also the dollar value to spend. How do I get this remedied?"
-    },
-    {
-        "author": " Oball sos ",
-        "date": "22 May 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Eth price been frozen at 100.7 since yesterday . When will this be resolved"
-    },
-    {
-        "author": "  ",
-        "date": "22 May 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Does not properly update currency's value, has fees, shape shift not  functional."
-    },
-    {
-        "author": " Moses Ng ",
-        "date": "22 May 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Overall it's a great app , just now having some problems looking at our current balance and could not be shapeshift. Hope it will be fixed asap"
-    },
-    {
-        "author": " Timothy Foster ",
-        "date": "22 May 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  Lately the wallet seems to be frozen, balances are not refreshing or fluctuating in real time. Generally the app is great besides the abovementioned current issue"
-    },
-    {
-        "author": " James Attanah ",
-        "date": "21 May 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Eth address takes too long to initialize. Shapeshift issues please fix. Update: Issues back again Balance shows zero value for tokens."
-    },
-    {
-        "author": " Guyen Gn ",
-        "date": "21 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Only used for a week and problem crops up, they should pull this stupid thing full off fault and problems, I wish I could -5, but could only give 1 star. Balance update fails, refuses to withdraw the legitimate amount, f-d up wallet."
-    },
-    {
-        "author": " Brian Brewer ",
-        "date": "21 May 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Some of my accounts show tokens in the balance but it shows $0.00. I can't shift any of my coins. Tried to submit a help ticket but can't. This might be an issue that's fixed in the next upgrade but I think I'm going to look for another wallet anyway."
-    },
-    {
-        "author": " Josip Gracan ",
-        "date": "20 May 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Updated today but the eth wallet still initializes every time I open jaxx"
-    },
-    {
-        "author": " Sune Lynnerup ",
-        "date": "19 May 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Looked promising but turned out to be painfully slow. So slow it can't be used at all."
-    },
-    {
-        "author": " Mat DeAngelis ",
-        "date": "19 May 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  The desktop app continues to be great but the mobile version is complete trash right now. It hasn't updated my balance in over a week and menus are insanely slow."
-    },
-    {
-        "author": " Michael Neblock ",
-        "date": "18 May 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Was great up until recently, I keep getting stuck waiting for my wallet to initialize. Desktop app works fine but the Android app gets two stars till this is resolved"
-    },
-    {
-        "author": " Niklas Schmidt ",
-        "date": "18 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Lost EUR 2,000 through this app. I can only warn against using it."
-    },
-    {
-        "author": " Jay Kanik ",
-        "date": "18 May 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  fixed the loading screen issue, now I think you're great again"
-    },
-    {
-        "author": " OSEI LAWRENCE ",
-        "date": "18 May 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  It's cool but needs to be updated, it's slow, especially loading of the interface, and if all the top ten coins could be added"
-    },
-    {
-        "author": " Samer Babi ",
-        "date": "18 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Some eth I received from Shapeshift magically disappeared not too long after I had the funds and the transaction was confirmed, there was no outgoing transaction.  And now after refreshing the Jaxx cache, my Ethereum​ wallet will not initialize."
-    },
-    {
-        "author": " Rohit Ghali ",
-        "date": "18 May 2017",
-        "rating": "Rated 4 stars out of five stars",
-        "comment": "  The best I've seen. Please do add support for ripple(xrp) also... It's the second biggest coin considering market cap."
-    },
-    {
-        "author": " Fun & Learn ",
-        "date": "16 May 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  its toooo much slow.ETH not working well"
-    },
-    {
-        "author": " Petros Petropoulos ",
-        "date": "16 May 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  An excellent multi-asset wallet, support all popular coins, 14 coins until now! Lightweight, runs properly on Android 4.4 with 1GB Ram. After update 1.2.14 seems that everything works properly. Active development and support teams."
-    },
-    {
-        "author": " Hà Huân Nguyễn ",
-        "date": "16 May 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  I love the features but it is too slow for using it. Please improve and listen to users. Thank you"
-    },
-    {
-        "author": " Doru Vitalariu ",
-        "date": "15 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  After the last update I lost all my ETH. The result of eth balance calculation is 0 on all currencyes....  Is the second time when is happening something similar during one year."
-    },
-    {
-        "author": " John Crothers ",
-        "date": "15 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Really buggy. Leaves currency in the wallet when trying to send and can't get it out. Transaction history disappears. Has never worked properly for me. Hate it"
-    },
-    {
-        "author": " Barry Conway ",
-        "date": "14 May 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  As a new investor in crypto, I decided on Jaxx as the best option for my wallet for now.   The features are great. The interface is clean and intuitive. The design/style is pleasant to look at.  It's one downfall is the lag. It works but it's extremely slow to register any functions.   Is there a plan to fix this?  Once it's fixed I will change my review accordingly."
-    },
-    {
-        "author": " Styge ",
-        "date": "14 May 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Very unresponsive"
-    },
-    {
-        "author": " mohammed arsath ",
-        "date": "14 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  All my ethers are gone.. is it lost forever? please fix this"
-    },
-    {
-        "author": " C M ",
-        "date": "14 May 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  Fantastic wallet BUT no Peercoin support. Five stars when it does.!!"
-    },
-    {
-        "author": " Stephen Gagnon ",
-        "date": "14 May 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Used this app for 2 months and it crashed a month ago.  Still have the orange screen lockup after a month.  Will remove this review once fix.  At this point I warn stay far away.  App is not stable and failure is rationalize with goodwill in many reviews."
-    },
-    {
-        "author": " Cyn P. ",
-        "date": "14 May 2017",
-        "rating": "Rated 2 stars out of five stars",
-        "comment": "  Freezes on start screen. Sony Xperia z1 compact"
-    },
-    {
-        "author": " Sean Anderson ",
-        "date": "14 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  appalling - barely works. massive delays after pressing any function, entering pins, changing screens. extreme lag. could be android version support"
-    },
-    {
-        "author": " knuc60 ",
-        "date": "13 May 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Awesome.. keep up the good work."
-    },
-    {
-        "author": " Nick Rygiel ",
-        "date": "13 May 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Perfect for Bitcoin ethereum and other digital currencies"
-    },
-    {
-        "author": " Abdullah Nasir ",
-        "date": "13 May 2017",
-        "rating": "Rated 5 stars out of five stars",
-        "comment": "  Now its great"
-    },
-    {
-        "author": " Luca Disimino ",
-        "date": "13 May 2017",
-        "rating": "Rated 3 stars out of five stars",
-        "comment": "  I love Jaxx, but had to give it 3 stars because its ETH wallet has been painfully slow and not functional since the last two updates. Please fix this, I want to keep using Jaxx for my ether!"
-    },
-    {
-        "author": " koribdus ",
-        "date": "13 May 2017",
-        "rating": "Rated 1 stars out of five stars",
-        "comment": "  Used to love this app. Then it froze on start screen. Can't get to my funds. Really wouldn't recommend this app. It seems to choke on micro transactions, which is all it would be reliable enough for anyway."
+        "comment": "  Very buggy lately. Gets stuck on opening screen.  Also chrome extension having problems"
     }
 ]
