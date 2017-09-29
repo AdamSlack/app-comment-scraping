@@ -1,0 +1,242 @@
+[
+    {
+        "author": " Wei Lim ",
+        "date": "28 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  I agree this version seems little buggy. My last ltc transaction disappeared, so as the coin. Didn't show up. Logged a case decentralized awaiting investigation"
+    },
+    {
+        "author": " max Jenkinson ",
+        "date": "28 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  App decided to stop letting me send zec and lost me over $500. Completely unacceptable for a wallet to just break if you mine to it."
+    },
+    {
+        "author": " Joseph Ezeh ",
+        "date": "28 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  I really want to love this app but what it sets out to do, it does poorly. The app is full of bugs. Currently I've been trying to shapeshift from zcash to BTC. I get the confirmation, press confirm, and then nothing happens. The zcash doesnt move.   Just pressing the menu button is a gamble. Who knows if it'll load correctly? I like what they're trying to do with the super custom UI, but the UX really needs to be tightened up. This is peoples money you're playing with, it's not a social app. I'm on Pixel XL."
+    },
+    {
+        "author": "  ",
+        "date": "28 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  Very buggy and insecure"
+    },
+    {
+        "author": " Oliver ozier ",
+        "date": "28 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  I donwload jaxx on play store and when I start app there is nothing happening. Can you explain why put a non-functional app on the store ?!?"
+    },
+    {
+        "author": "  ",
+        "date": "28 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  12 percent charge. Per transaction.    Piss off."
+    },
+    {
+        "author": " Daniel Barajas ",
+        "date": "28 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  UPDATE: After reinstalling a few times (make sure you have your backup codes), my bitcoins are back so it seems to be working now, my bitcoin wallet just loads slowly. If the app proves to be reliable again in the next few months, I'll raise my rating to 5 stars  1 star. I used this app for bitcoin and litecoin in the past and it used to work well. After the most recent update, my bitcoin wallet is frozen on \"initializing wallet\" so I can't access any of my funds. However, if I disable my bitcoin wallet, my litecoins are accessible. I'll update my review if this problem is fixed and my bitcoins restored, otherwise, don't download this."
+    },
+    {
+        "author": " Tolga Medeni ",
+        "date": "28 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  after update I can not reach my eth account via my phone"
+    },
+    {
+        "author": " Juan Velasquez ",
+        "date": "27 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  After latest update, my ether is missing, this seems to be a trend, this is the second time something like this has happened"
+    },
+    {
+        "author": " Adam Paul Mcnulty ",
+        "date": "27 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Tenx removed with my coins back again we will see if I can cash out"
+    },
+    {
+        "author": " Firas Essam ",
+        "date": "27 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  After the latest update  eth wallet keep saying receiving invalid address."
+    },
+    {
+        "author": " Vincent Virovac ",
+        "date": "27 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  There's no accept button for terms of service and I can't access my money right now. Please fix it asap there's no accept button anywhere and I've read the agreement."
+    },
+    {
+        "author": "  ",
+        "date": "27 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Poor service. Couldn't open. Android 5.1 New update on 27/09/2017 Still can't open. Frezee on jaxx logo. Horrible."
+    },
+    {
+        "author": " Alexia Laurent ",
+        "date": "27 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  I had 200dollars and after update is gone"
+    },
+    {
+        "author": " Yang Yin ",
+        "date": "27 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Heard about it on FTL, very disappointed. Still doesn't work. Stuck on jaxx logo."
+    },
+    {
+        "author": " Phillip Hertzog ",
+        "date": "27 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  PAY (TenX) wallet not listed after update?"
+    },
+    {
+        "author": " Ajarn Mario ",
+        "date": "27 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  TenX/Pay wallet has disappeared on the Sept. 27 2017 update. Funds were stored there.   No private keys given for many of the currencies available in the Jaxx wallet. Why not!?"
+    },
+    {
+        "author": " Byamungu Kabiraba ",
+        "date": "27 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  I can't see my TenX coins. Tell me that I didn't just lose all my tenX coins?"
+    },
+    {
+        "author": " Ahmed Chishti ",
+        "date": "27 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  good interface. plenty of options. but after recent update my last buy went missing. and this is unacceptable.  waiting for the customer service to reply with a good solution."
+    },
+    {
+        "author": " Aaron Wiebe ",
+        "date": "27 September 2017",
+        "rating": "Rated 4 stars out of five stars",
+        "comment": "  The new update makes some nice ui and performance improvements."
+    },
+    {
+        "author": " djay aguilar ",
+        "date": "27 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I just got an immediate assistance to my tenx wallet issue.. hoping to fix this soon guys! Good job!"
+    },
+    {
+        "author": " Johnny Dugdale ",
+        "date": "27 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  The latest version freezes on the opening screen on my older devices"
+    },
+    {
+        "author": "  ",
+        "date": "27 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  After this update,all it brings is receiving address is invalid. Please check it up"
+    },
+    {
+        "author": " Jojo Moralla ",
+        "date": "26 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  i cant open the app..i update it..but it cant pass the orange logo.."
+    },
+    {
+        "author": " Farid Eljufri ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Hello why my tenx wallet gone?why all my token show 0 amount?"
+    },
+    {
+        "author": " Mark One ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  PAY just disappeared"
+    },
+    {
+        "author": " Jeff C ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Won't open after last 3 updates!?!?"
+    },
+    {
+        "author": " Filipe Goncalves ",
+        "date": "26 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  I downloaded the app on 9/25/17 and couldn't get past the opening orange screen. I have since gotten the update that came out today 9/26/17 and the peoblem still exists.   I will gladly upgrade my review if the problem is fixed."
+    },
+    {
+        "author": " Andrei Neagu ",
+        "date": "26 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  Where is tenx support?"
+    },
+    {
+        "author": " eka nurochman ",
+        "date": "26 September 2017",
+        "rating": "Rated 5 stars out of five stars",
+        "comment": "  I think all negative comments just spamming. Last update is excellent, faster than before. But still no monero?"
+    },
+    {
+        "author": " Thomas Houiellebecq ",
+        "date": "26 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Where has the support for TenX PAY gone?"
+    },
+    {
+        "author": " K Hunt ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  No segwit BIP141 support! Sorry segwit is supported in bitcoin core, a wallet must support this."
+    },
+    {
+        "author": " raj rajdeep ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Payments doesn't show . Am disappointed. And every time there is update for no use"
+    },
+    {
+        "author": " craig beer ",
+        "date": "26 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  It's a scam not helpful at all they make it very hard to get your coins once app fails useless they should be looked at by the authorities cause I'm pretty sure my address and private keys have changed ??????"
+    },
+    {
+        "author": " Sergey Korsakov ",
+        "date": "25 September 2017",
+        "rating": "Rated 2 stars out of five stars",
+        "comment": "  Simply don't work after last Update. Thanks guys finally I found coinomi wallet 8)"
+    },
+    {
+        "author": " toffy concepcion ",
+        "date": "25 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  It was wonderful until the update. My COINS ARE GONE! Now the screen freezes and the app doesn't launch on my samsung core. DON'T UPDATE! Use the COINPAYMENTS wallet instead until they revert to the last version before the current one. It got fixed... and then I updated... now it's frozen again."
+    },
+    {
+        "author": " Joel Santtus ",
+        "date": "25 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  App não abre. Congelado na tela de iniciação. Parado na tela laranja"
+    },
+    {
+        "author": " Hamzs Haty ",
+        "date": "25 September 2017",
+        "rating": "Rated 3 stars out of five stars",
+        "comment": "  Was working fine and now I cant get past the orange screen! I dont know what to do. No mention of any issues on twitter.  So annoying.  Where are my coins?!!!! I may have to create a twitter account just to tweet them. In the meantime if anyone else has issues and has a twitter - please make it known that the app is just frozen! Thanks"
+    },
+    {
+        "author": " sneha pilley ",
+        "date": "25 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  Now its 1&half week gone but my problem i. e. Orange  splash screen not yet solved please help buddy"
+    },
+    {
+        "author": " Drew Acton ",
+        "date": "24 September 2017",
+        "rating": "Rated 1 stars out of five stars",
+        "comment": "  It's a scam. Payments never show up, they aren't responsible for that they say. Go to Blockchain if you're mining it works beautifully. This is just a group of thieves."
+    }
+]

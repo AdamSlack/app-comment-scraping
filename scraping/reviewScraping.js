@@ -3,10 +3,7 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const db = new(require('../db/db'))('scraper');
 
-var pageNum = 0;
-var appID = 'com.kryptokit.jaxx';
 var idNum = -1;
-console.log('Fetching comments for:', appID);
 
 // Set the headers
 console.log('Setting headers');
@@ -15,43 +12,41 @@ var headers = {
     'Content-Type': 'application/x-www-form-urlencoded;',
     'alt-svc': 'quic=":443"; ma=2592000; v="39,38,37,35"',
 };
-var form = {
-    'authuser': 0,
-    'reviewType': 0,
-    'pageNum': pageNum,
-    'id': appID,
-    'reviewSortOrder': 0,
-    'xhr': 1,
-    'hl': 'en_GB'
-}
 
-
-// Configure the request
-
-console.log('Initalising request options');
-var options = {
-    url: 'https://play.google.com/store/getreviews',
-    method: 'POST',
-    headers: headers,
-    form: form
-};
 var allreviews = [];
 
 function logReviews(reviews) {
     fs.appendFileSync(appID + '.txt', JSON.stringify(reviews, undefined, 4));
 }
 
-
-
 async function fetchAppID() {
     const res = await db.selectAppID();
-    appID = res.appID;
     idNum = res.idNum;
-    console.log(res.appID);
+    var form = {
+        'authuser': 0,
+        'reviewType': 0,
+        'pageNum': 0,
+        'id': res.appID.replace(/ /g, ''),
+        'reviewSortOrder': 0,
+        'xhr': 1,
+        'hl': 'en_GB'
+    }
+
+    // Configure the request
+
+    console.log('Initalising request options');
+    var options = {
+        url: 'https://play.google.com/store/getreviews',
+        method: 'POST',
+        headers: headers,
+        form: form
+    };
+
+    console.log('Fetching comments for:', options.form.id);
     try {
-        scrapeReviews();
+        scrapeReviews(options);
     } catch (err) {
-        scrapeReviews();
+        scrapeReviews(options);
     }
 }
 
@@ -65,7 +60,7 @@ function insertComments(appID, idNum, comments) {
 }
 fetchAppID();
 
-function scrapeReviews() {
+function scrapeReviews(options) {
 
 
     tr.request('https://api.ipify.org', function(err, res, body) {
@@ -74,11 +69,12 @@ function scrapeReviews() {
         }
     });
     // Start the request
-    console.log('Requesting comments for page:', form.pageNum);
+    console.log('Requesting comments for page:', options.form.pageNum);
     tr.request(options, function(error, response, body) {
         //console.log(body);
+
         if (!error && response.statusCode == 200) {
-            console.log('Status Code:', response.statusCode);
+            console.log('Status Code:', response.statusCode, 'Parsing response');
             var htmlString = JSON.parse(body.slice(7, -1))[2];
             var reviews = [];
             $ = cheerio.load(htmlString);
@@ -93,14 +89,14 @@ function scrapeReviews() {
             //console.log('Response:', response);
             if (reviews.length > 0) {
                 //allReviews = allreviews.concat(reviews);
-                logReviews(reviews);
-                insertComments(appID, idNum, reviews);
-                form.pageNum += 1;
+                //logReviews(reviews);
+                insertComments(options.form.id, idNum, reviews);
+                options.form.pageNum += 1;
                 setTimeout(() => {
                     try {
-                        scrapeReviews();
+                        scrapeReviews(options);
                     } catch (err) {
-                        scrapeReviews();
+                        scrapeReviews(options);
                     }
                 }, 2000);
             } else {
@@ -114,9 +110,9 @@ function scrapeReviews() {
             console.log('Waiting until IP changes...');
             setTimeout(() => {
                 try {
-                    scrapeReviews();
+                    scrapeReviews(options);
                 } catch (err) {
-                    scrapeReviews();
+                    scrapeReviews(options);
                 }
             }, 10000);
         }

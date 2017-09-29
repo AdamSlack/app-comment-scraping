@@ -28,7 +28,7 @@ class DB {
     query(text, values) {
         try {
             if (values) console.log('query:', text, values);
-            else console.log('query:', text, values);
+            else console.log('query:', text);
             return this.pool.query(text, values);
         } catch (err) {
             console.log('Error With Postgres Query');
@@ -101,7 +101,7 @@ class DB {
         const client = await this.connect();
         try {
             await client.lquery(
-                'insert into comments(app_id_num, app_id, author, date_written, json_object), values ($1,$2,$3,$4,$5)', [idNum, appID, comment.author, comment.date, comment]
+                'insert into comments(app_id_num, app_id, author, date_written, rating, json_object) values ($1,$2,$3,$4,$5, $6)', [idNum, appID, comment.author, comment.date, comment.rating.replace(/\D/g, ''), JSON.stringify(comment)]
             );
         } catch (err) {
             console.log('Error inserting comment into the database', err);
